@@ -1,0 +1,822 @@
+[
+    {
+        "name": "AppName",
+        "value": "Wa Sender 1.0"
+    },
+    {
+        "name": "Column1",
+        "value": "Στήλη 1"
+    },
+    {
+        "name": "Number",
+        "value": "Αριθμός"
+    },
+    {
+        "name": "Column2",
+        "value": "Στήλη 2"
+    },
+    {
+        "name": "DownloadSample",
+        "value": "Κατεβάστε το δείγμα Excel"
+    },
+    {
+        "name": "UploadSampleExcel",
+        "value": "Ανεβάστε το Excel"
+    },
+    {
+        "name": "ContectSender",
+        "value": "Επικοινωνήστε με τον αποστολέα"
+    },
+    {
+        "name": "GroupSender",
+        "value": "Ομαδικός αποστολέας"
+    },
+    {
+        "name": "Tools",
+        "value": "Εργαλεία"
+    },
+    {
+        "name": "Filedownloadedsuccessfully",
+        "value": "Η λήψη του αρχείου έγινε με επιτυχία!"
+    },
+    {
+        "name": "WABulkSender",
+        "value": "Μαζική αποστολή WA"
+    },
+    {
+        "name": "SelectExcel",
+        "value": "Επιλέξτε Excel"
+    },
+    {
+        "name": "PleaseselectExcelfilesformatonly",
+        "value": "Επιλέξτε μόνο μορφή αρχείων Excel ( .xls )."
+    },
+    {
+        "name": "AddNew",
+        "value": "Προσθεσε νεο"
+    },
+    {
+        "name": "KeyMarkers",
+        "value": "Βασικοί δείκτες"
+    },
+    {
+        "name": "AddKeyMarker",
+        "value": "Προσθήκη KeyMarker"
+    },
+    {
+        "name": "SaveNClose",
+        "value": "Αποθηκεύσετε"
+    },
+    {
+        "name": "KeyMarkerFormatinIncorrect",
+        "value": "Η μορφή του δείκτη κλειδιού είναι λανθασμένη"
+    },
+    {
+        "name": "OK",
+        "value": "Εντάξει"
+    },
+    {
+        "name": "SelectedKeyMarkeralreadyExist",
+        "value": "Το επιλεγμένο KeyMarker υπάρχει ήδη"
+    },
+    {
+        "name": "Delete",
+        "value": "Διαγράφω"
+    },
+    {
+        "name": "WrongKey",
+        "value": "Ο δείκτης κλειδιού ξεκινά με {{ KEY :"
+    },
+    {
+        "name": "Target",
+        "value": "Στόχος"
+    },
+    {
+        "name": "Messages",
+        "value": "Μηνύματα"
+    },
+    {
+        "name": "MessageOne",
+        "value": "Μήνυμα 1"
+    },
+    {
+        "name": "MessageTwo",
+        "value": "Μήνυμα 2"
+    },
+    {
+        "name": "MessageThree",
+        "value": "Μήνυμα 3"
+    },
+    {
+        "name": "MessageFour",
+        "value": "Μήνυμα 4"
+    },
+    {
+        "name": "MessageFive",
+        "value": "Μήνυμα 5"
+    },
+    {
+        "name": "Attachments",
+        "value": "Συνημμένα"
+    },
+    {
+        "name": "Addfile",
+        "value": "Προσθήκη αρχείου"
+    },
+    {
+        "name": "Yourfirstmessage",
+        "value": "* Το πρώτο σας μήνυμα"
+    },
+    {
+        "name": "YourSecondmessage",
+        "value": "* Το δεύτερο μήνυμά σας"
+    },
+    {
+        "name": "YourThirdmessage",
+        "value": "* Το τρίτο σας μήνυμα"
+    },
+    {
+        "name": "YourFourthmessage",
+        "value": "* Το τέταρτο μήνυμά σας"
+    },
+    {
+        "name": "YourFifthmessage",
+        "value": "* Το πέμπτο σας μήνυμα"
+    },
+    {
+        "name": "DelaySettings",
+        "value": "Ρυθμίσεις καθυστέρησης"
+    },
+    {
+        "name": "Wait",
+        "value": "Περίμενε"
+    },
+    {
+        "name": "secondsafterevery",
+        "value": "δευτερόλεπτα μετά από κάθε"
+    },
+    {
+        "name": "to",
+        "value": "προς την"
+    },
+    {
+        "name": "Clear",
+        "value": "Σαφή"
+    },
+    {
+        "name": "StartCampaign",
+        "value": "Έναρξη καμπάνιας"
+    },
+    {
+        "name": "secondsbeforeeverymessage",
+        "value": "δευτερόλεπτα πριν από κάθε μήνυμα"
+    },
+    {
+        "name": "AddKeyMarkers",
+        "value": "Προσθήκη KeyMarkers"
+    },
+    {
+        "name": "RandomNumber",
+        "value": "Τυχαίος αριθμός"
+    },
+    {
+        "name": "PleaseEnterCampaignName",
+        "value": "Εισαγάγετε Όνομα καμπάνιας"
+    },
+    {
+        "name": "CampaignName",
+        "value": "Όνομα καμπάνιας"
+    },
+    {
+        "name": "UntitledGroupCampaign",
+        "value": "Ομαδική καμπάνια χωρίς τίτλο"
+    },
+    {
+        "name": "UntitledCampaign",
+        "value": "Καμπάνια χωρίς τίτλο"
+    },
+    {
+        "name": "RowNo",
+        "value": "Σειρά Αρ"
+    },
+    {
+        "name": "Errors",
+        "value": "Σφάλματα"
+    },
+    {
+        "name": "WhatsAppBot",
+        "value": "WhatsApp Bot"
+    },
+    {
+        "name": "Rules",
+        "value": "Κανόνες"
+    },
+    {
+        "name": "AddRule",
+        "value": "Προσθήκη κανόνα"
+    },
+    {
+        "name": "Log",
+        "value": "Κούτσουρο"
+    },
+    {
+        "name": "Status",
+        "value": "Κατάσταση"
+    },
+    {
+        "name": "Start",
+        "value": "Αρχή"
+    },
+    {
+        "name": "Stop",
+        "value": "Να σταματήσει"
+    },
+    {
+        "name": "IsActive",
+        "value": "Είναι ενεργό"
+    },
+    {
+        "name": "UserInput",
+        "value": "Εισαγωγή χρήστη"
+    },
+    {
+        "name": "Type",
+        "value": "Τύπος"
+    },
+    {
+        "name": "Match",
+        "value": "Αγώνας"
+    },
+    {
+        "name": "ReplySend",
+        "value": "Απάντηση Αποστολή"
+    },
+    {
+        "name": "NotMatch",
+        "value": "Δεν ταιριάζει"
+    },
+    {
+        "name": "Fallback",
+        "value": "Εναλλακτικός"
+    },
+    {
+        "name": "PleaseaddRules",
+        "value": "Προσθέστε Κανόνες"
+    },
+    {
+        "name": "Run",
+        "value": "Τρέξιμο"
+    },
+    {
+        "name": "InitiateWhatsAppScaneQRCodefromyourrmobile",
+        "value": "Εκκινήστε το WhatsApp"
+    },
+    {
+        "name": "ClicktoInitiate",
+        "value": "Κάντε κλικ για Έναρξη"
+    },
+    {
+        "name": "ChatName",
+        "value": "Όνομα συνομιλίας"
+    },
+    {
+        "name": "ImportentNotes",
+        "value": "Σημαντικές Σημειώσεις"
+    },
+    {
+        "name": "Keepapplicationopenwhilesendingmessagesanduntilallmessagesaresentfromyourmobile",
+        "value": "1) Κρατήστε την εφαρμογή ανοιχτή κατά την αποστολή μηνυμάτων και μέχρι να σταλούν όλα τα μηνύματα από το κινητό σας"
+    },
+    {
+        "name": "ClearWhatsAppchathistoryafter5001000150020000messagesasperyourphoneconfiguration",
+        "value": "2) Διαγράψτε το ιστορικό συνομιλιών WhatsApp μετά από 500/1000/1500/20000 μηνύματα σύμφωνα με τη διαμόρφωση του τηλεφώνου σας"
+    },
+    {
+        "name": "WaSendertendstosubmitmessagestoyourphoneisnotresponsiblefordeliveryofthemessage",
+        "value": "3) Η WaSender τείνει να υποβάλλει μηνύματα στο τηλέφωνό σας, δεν είναι υπεύθυνη για την παράδοση του μηνύματος"
+    },
+    {
+        "name": "Completed",
+        "value": "Ολοκληρώθηκε το"
+    },
+    {
+        "name": "PleasefollowStepNo1FirstInitialiseWhatsapp",
+        "value": "Ακολουθήστε το Βήμα Νο 1. Αρχικά, ξεκινήστε το Whatsapp"
+    },
+    {
+        "name": "Processisalreadyrunning",
+        "value": "Η διαδικασία εκτελείται ήδη"
+    },
+    {
+        "name": "RunGroup",
+        "value": "Εκτέλεση ομάδας"
+    },
+    {
+        "name": "KeyMarker",
+        "value": "KeyMarker"
+    },
+    {
+        "name": "Select",
+        "value": "Επιλέγω"
+    },
+    {
+        "name": "GroupsJoiner",
+        "value": "Groups Joiner"
+    },
+    {
+        "name": "GroupJoin",
+        "value": "Εγγραφή ομάδας"
+    },
+    {
+        "name": "secondsbeforeeveryGroupJoin",
+        "value": "δευτερόλεπτα πριν από κάθε ομαδική συμμετοχή"
+    },
+    {
+        "name": "StartJoining",
+        "value": "Ξεκινήστε τη συμμετοχή"
+    },
+    {
+        "name": "GroupLink",
+        "value": "Σύνδεσμος ομάδας"
+    },
+    {
+        "name": "PleaseFollowStepnoThree",
+        "value": "Ακολουθήστε το βήμα 3"
+    },
+    {
+        "name": "GrabGroupLinks",
+        "value": "Πιάσε συνδέσμους ομάδας"
+    },
+    {
+        "name": "OpenBrowser",
+        "value": "Ανοίξτε το πρόγραμμα περιήγησης"
+    },
+    {
+        "name": "Clickbellowbuttontoopenbrowser",
+        "value": "Κάντε κλικ στο παρακάτω κουμπί για να ανοίξετε το πρόγραμμα περιήγησης"
+    },
+    {
+        "name": "Navigatetoanywebsitewherelistedgrouplinkstheclickbellowbellowbuton",
+        "value": "Πλοηγηθείτε σε οποιονδήποτε ιστότοπο , όπου αναφέρονται οι σύνδεσμοι ομάδας, κάντε κλικ στο παρακάτω κουμπί"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "Ξεκινήστε να αρπάζετε"
+    },
+    {
+        "name": "NoGroupLinkfoundincurrentPage",
+        "value": "Δεν βρέθηκε σύνδεσμος ομάδας στην τρέχουσα σελίδα"
+    },
+    {
+        "name": "GrabChatList",
+        "value": "Grab Chat List"
+    },
+    {
+        "name": "InitiateWhatsAppScaneQRCodefromyourmobile",
+        "value": "Εκκινήστε το WhatsApp"
+    },
+    {
+        "name": "GetGroupMember",
+        "value": "Αποκτήστε μέλος της ομάδας"
+    },
+    {
+        "name": "OpenanyGroupchatClickbuttonbellow",
+        "value": "Ανοίξτε οποιαδήποτε ομαδική συνομιλία"
+    },
+    {
+        "name": "PleaseGotoanygroupchat",
+        "value": "Πηγαίνετε σε οποιαδήποτε ομαδική συνομιλία"
+    },
+    {
+        "name": "fallback",
+        "value": "εναλλακτική"
+    },
+    {
+        "name": "Usefallback",
+        "value": "Χρησιμοποιήστε εναλλακτική"
+    },
+    {
+        "name": "If",
+        "value": "Αν..."
+    },
+    {
+        "name": "UserSend",
+        "value": "Αποστολή χρήστη..."
+    },
+    {
+        "name": "Condition",
+        "value": "Κατάσταση"
+    },
+    {
+        "name": "Which",
+        "value": "Οι οποίες"
+    },
+    {
+        "name": "ThenReplywith",
+        "value": "Στη συνέχεια, Απαντήστε με..."
+    },
+    {
+        "name": "AddMessage",
+        "value": "Πρόσθεσε μήνυμα"
+    },
+    {
+        "name": "Message",
+        "value": "Μήνυμα"
+    },
+    {
+        "name": "Cancel",
+        "value": "Ματαίωση"
+    },
+    {
+        "name": "Save",
+        "value": "Αποθηκεύσετε"
+    },
+    {
+        "name": "Confirm",
+        "value": "Επιβεβαιώνω"
+    },
+    {
+        "name": "AreyousuretodeletethisRule",
+        "value": "Είστε βέβαιοι ότι θα διαγράψετε αυτόν τον κανόνα"
+    },
+    {
+        "name": "ReplyMessage",
+        "value": "Απάντηση Μήνυμα"
+    },
+    {
+        "name": "TypeYourMessagehere",
+        "value": "Πληκτρολογήστε το μήνυμά σας εδώ"
+    },
+    {
+        "name": "Files",
+        "value": "Αρχεία"
+    },
+    {
+        "name": "Add",
+        "value": "Προσθήκη"
+    },
+    {
+        "name": "GroupNames",
+        "value": "Ονόματα ομάδων"
+    },
+    {
+        "name": "PleaseCheckMobileNumberyouhaveadded",
+        "value": "Ελέγξτε τον αριθμό κινητού που έχετε προσθέσει"
+    },
+    {
+        "name": "ShouldNotbeempty",
+        "value": "Δεν πρέπει να είναι κενό"
+    },
+    {
+        "name": "ContactNumberShouldNotbeEmpty",
+        "value": "Ο αριθμός επικοινωνίας δεν πρέπει να είναι κενός"
+    },
+    {
+        "name": "MessageShouldNotbeEmpty",
+        "value": "Το μήνυμα δεν πρέπει να είναι κενό"
+    },
+    {
+        "name": "delayAfterMessagesShouldNotbeEmpty",
+        "value": "Η καθυστέρηση μετά τα μηνύματα δεν πρέπει να είναι άδεια"
+    },
+    {
+        "name": "delayAfterMessagesFromShouldNotbeEmpty",
+        "value": "Καθυστέρηση μετά τα μηνύματα από δεν πρέπει να είναι κενά"
+    },
+    {
+        "name": "delayAfterMessagesTOShouldNotbeEmpty",
+        "value": "Καθυστέρηση μετά τα μηνύματα να μην είναι άδεια"
+    },
+    {
+        "name": "delayAfterEveryMessageFromShouldNotbeEmpty",
+        "value": "Καθυστέρηση μετά από κάθε μήνυμα από Δεν πρέπει να είναι κενό"
+    },
+    {
+        "name": "delayAfterEveryMessageToShouldNotbeEmpty",
+        "value": "Καθυστέρηση After Every Message To Δεν πρέπει να είναι κενό"
+    },
+    {
+        "name": "ShouldGraterthenoero",
+        "value": "Πρέπει να τρίψετε και μετά 0"
+    },
+    {
+        "name": "delayAfterMessages_ShouldGraterthenoero",
+        "value": "Καθυστέρηση μετά τα μηνύματα πρέπει να τρίβεται και μετά 0"
+    },
+    {
+        "name": "delayAfterMessagesFrom_ShouldGraterthenoero",
+        "value": "Καθυστέρηση μετά από μηνύματα από Should Grater και στη συνέχεια 0"
+    },
+    {
+        "name": "delayAfterMessagesTo_ShouldGraterthenoero",
+        "value": "Καθυστέρηση μετά από μηνύματα σε τρίφτη και μετά 0"
+    },
+    {
+        "name": "delayAfterEveryMessageFrom_ShouldGraterthenoero",
+        "value": "Καθυστέρηση μετά από κάθε μήνυμα από το Should Grater τότε 0"
+    },
+    {
+        "name": "delayAfterEveryMessageTo_ShouldGraterthenoero",
+        "value": "Καθυστέρηση μετά από κάθε μήνυμα σε τρίφτη και μετά 0"
+    },
+    {
+        "name": "thetoamountismustbegraterthenstartingamount",
+        "value": "η ποσότητα «προς» πρέπει να είναι μικρότερη από την αρχική ποσότητα"
+    },
+    {
+        "name": "UsermessageMustEmptyincaseoffallback",
+        "value": "Μήνυμα χρήστη Must Empty σε περίπτωση επιστροφής"
+    },
+    {
+        "name": "PleaseAddatleastoneMessage",
+        "value": "Προσθέστε τουλάχιστον ένα μήνυμα"
+    },
+    {
+        "name": "PleaseEnterAmessage",
+        "value": "Παρακαλώ εισάγετε ένα μήνυμα"
+    },
+    {
+        "name": "PleaseaddatleastoneGroupinlist",
+        "value": "Προσθέστε τουλάχιστον μία Ομάδα στη λίστα"
+    },
+    {
+        "name": "PleaseaddatleastoneContactinlist",
+        "value": "Προσθέστε τουλάχιστον μία επαφή στη λίστα"
+    },
+    {
+        "name": "ClickbellowButton",
+        "value": "1) Κάντε κλικ στο παρακάτω κουμπί"
+    },
+    {
+        "name": "ScanQRCode",
+        "value": "2) Σάρωση κωδικού QR"
+    },
+    {
+        "name": "WaitfortheExcel",
+        "value": "3) Περιμένετε για το Excel"
+    },
+    {
+        "name": "Now",
+        "value": "Τώρα"
+    },
+    {
+        "name": "GrabNow",
+        "value": "Πιάσε τώρα"
+    },
+    {
+        "name": "GrabGroupMembers",
+        "value": "Grab Group μέλη"
+    },
+    {
+        "name": "ClickbellowButtonScanQRCode",
+        "value": "1) Κάντε κλικ στο παρακάτω κουμπί Σάρωση κωδικού QR"
+    },
+    {
+        "name": "OpenAnyGroup",
+        "value": "2) Ανοίξτε το Any Group"
+    },
+    {
+        "name": "GrabWhatsAppGroupLinksfromwebpage",
+        "value": "Αποκτήστε συνδέσμους ομάδας WhatsApp από την ιστοσελίδα"
+    },
+    {
+        "name": "OpenAnywebpagewheregivengrouplinks",
+        "value": "2) Ανοίξτε Οποιαδήποτε ιστοσελίδα όπου δίνονται σύνδεσμοι ομάδας"
+    },
+    {
+        "name": "ThenClickonSTARTButton",
+        "value": "3) Στη συνέχεια κάντε κλικ στο κουμπί START"
+    },
+    {
+        "name": "AutoGroupJoiner",
+        "value": "Auto Group Joiner"
+    },
+    {
+        "name": "AddUploadGroupLinks",
+        "value": "1) Προσθήκη / Μεταφόρτωση συνδέσμων ομάδας"
+    },
+    {
+        "name": "ScanWAQRCode",
+        "value": "2) Σάρωση κωδικού WA QR"
+    },
+    {
+        "name": "StartNow",
+        "value": "Ξεκίνα τώρα"
+    },
+    {
+        "name": "WhatsAppAutoResponderBot",
+        "value": "WhatsApp Auto Responder Bot"
+    },
+    {
+        "name": "SetRules",
+        "value": "1) Ορίστε κανόνες"
+    },
+    {
+        "name": "AddReplyMessages",
+        "value": "2) Προσθήκη μηνυμάτων απάντησης"
+    },
+    {
+        "name": "GeneralSettings",
+        "value": "Γενικές Ρυθμίσεις"
+    },
+    {
+        "name": "ChromeProfilePath",
+        "value": "Διαδρομή προφίλ Chrome"
+    },
+    {
+        "name": "InputPathisnotCorrectfolderpath",
+        "value": "Η διαδρομή εισαγωγής δεν είναι σωστή διαδρομή φακέλου"
+    },
+    {
+        "name": "SettingsSavedSuccessfully",
+        "value": "Οι ρυθμίσεις αποθηκεύτηκαν με επιτυχία"
+    },
+    {
+        "name": "MessageSendingType",
+        "value": "Τύπος αποστολής μηνύματος"
+    },
+    {
+        "name": "CopyPaste",
+        "value": "Αντιγραφή επικόλληση"
+    },
+    {
+        "name": "Typeamessage",
+        "value": "Πληκτρολογήστε ένα μήνυμα"
+    },
+    {
+        "name": "Activate",
+        "value": "Θέτω εις ενέργειαν"
+    },
+    {
+        "name": "ActivateAppName",
+        "value": "Ενεργοποιήστε το WaSender"
+    },
+    {
+        "name": "YourActivationCodeis",
+        "value": "Ο κωδικός ενεργοποίησής σας είναι..."
+    },
+    {
+        "name": "ProvideYourActivationKeyHere",
+        "value": "Δώστε το κλειδί ενεργοποίησής σας εδώ..."
+    },
+    {
+        "name": "ActivateNow",
+        "value": "Ενεργοποίηση τώρα"
+    },
+    {
+        "name": "Exit",
+        "value": "Εξοδος"
+    },
+    {
+        "name": "ActivationSuccessfull",
+        "value": "Η ενεργοποίηση ήταν επιτυχής"
+    },
+    {
+        "name": "InvalidActivationKey",
+        "value": "Μη έγκυρο κλειδί ενεργοποίησης"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "Αρχή"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "Αρχή"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "Αρχή"
+    },
+    {
+        "name": "LanguageIsSet",
+        "value": "Η γλώσσα έχει οριστεί.  Επανεκκινήστε το λογισμικό"
+    },
+    {
+        "name": "Name",
+        "value": "Ονομα"
+    },
+    {
+        "name": "WhatsAppNumberFilter",
+        "value": "Φίλτρο αριθμού WhatsApp"
+    },
+    {
+        "name": "AddUploadNumbers",
+        "value": "1) Προσθήκη / Μεταφόρτωση αριθμών"
+    },
+    {
+        "name": "NumberCheck",
+        "value": "Έλεγχος αριθμού"
+    },
+    {
+        "name": "secondsbeforeeveryNumberCheck",
+        "value": "δευτερόλεπτα πριν από κάθε Έλεγχο Αριθμών"
+    },
+    {
+        "name": "StartChecking",
+        "value": "Ξεκινήστε τον Έλεγχο"
+    },
+    {
+        "name": "ContactListGrabber",
+        "value": "Λίστα επαφών Grabber"
+    }
+    ,
+    {
+        "name": "HitGrabNowButton",
+        "value": "2) Πατήστε το κουμπί Grab Now"
+    },
+    {
+        "name": "GrabActiveGroupMembers",
+        "value": "Αρπάξτε τα ενεργά μέλη της ομάδας"
+    }
+    ,
+    {
+        "name": "TotalFound ",
+        "value": "Σύνολο Βρέθηκαν"
+    },
+    {
+        "name": "Export",
+        "value": "Εξαγωγή"
+    },
+    {
+        "name": "Nothingtoexport",
+        "value": "Τίποτα για εξαγωγή"
+    }
+	
+	
+	,
+    {
+        "name": "GoogleMapDataEExtractor",
+        "value": "Google Map Εξαγωγέας δεδομένων"
+    }
+	,
+    {
+        "name": "Usethatwindowtosearchforbusinessesandwhensearchresultsareshown",
+        "value": "Χρησιμοποιήστε αυτό το παράθυρο για να αναζητήσετε επιχειρήσεις και όταν εμφανίζονται τα αποτελέσματα αναζήτησης \n κάντε κλικ στο κουμπί Start Grabing για να ξεκινήσει ο ανιχνευτής."
+    },
+    {
+        "name": "PleaseSearchsomething",
+        "value": "Ψάξτε κάτι"
+    },
+    {
+        "name": "ImportInWaSender",
+        "value": "Εισαγωγή αριθμών"
+    },
+    {
+        "name": "EnterCountryCode",
+        "value": "Εισαγάγετε τον κωδικό χώρας"
+    },
+    {
+        "name": "SearchYourQUeryonGMap",
+        "value": "Αναζητήστε το ερώτημά σας στον χάρτη G"
+    },
+    {
+        "name": "HitStart",
+        "value": "Πατήστε Έναρξη"
+    },
+    {
+        "name": "Count",
+        "value": "μετρώ"
+    },
+    {
+        "name": "ReviewCount",
+        "value": "Καταμέτρηση κριτικών"
+    },
+    {
+        "name": "Catagory",
+        "value": "Κατηγορία"
+    },
+    {
+        "name": "MobileNumber",
+        "value": "Αριθμός κινητού"
+    }
+	,
+    {
+        "name": "Address",
+        "value": "Διεύθυνση"
+    },
+    {
+        "name": "Website",
+        "value": "Δικτυακός τόπος"
+    },
+    {
+        "name": "PlusCode",
+        "value": "PlusCode"
+    }
+	,
+    {
+        "name": "AddCountryCode",
+        "value": "Προσθήκη κωδικού χώρας"
+    },
+    {
+        "name": "One",
+        "value": "1) "
+    },
+	{
+        "name": "Two",
+        "value": "2) "
+    },
+	{
+        "name": "Three",
+        "value": "3) "
+    }
+]

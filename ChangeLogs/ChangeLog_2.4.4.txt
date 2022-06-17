@@ -1,0 +1,4 @@
+Change Log - 2.4.3 (01 June 2022)
+----------------------------------
+* Contact List Grabber Not Working - Issue fixed
+* Autoreply Bot issues fixed

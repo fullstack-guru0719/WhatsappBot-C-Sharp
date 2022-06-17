@@ -1,0 +1,468 @@
+﻿<!DOCTYPE HTML>
+<html lang="zxx">
+<head>
+<title>Documentation by "TrendingApps"</title>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="stylesheet" href="assets/css/main.css" />
+<link href="https://fonts.googleapis.com/css?family=Montserrat:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i" rel="stylesheet"> 
+</head>
+<body>
+<section id="header">
+  <header> <span class="image avatar"></span>
+    <h4 id="logo">WaSender 1.0</h4>
+	<h5>Developer Doc</h5>
+  </header>
+  <nav id="nav">
+    <ul>
+		<li><a href="#eclipseversion"><i class="fa fa-hand-o-right"></i> Prerequisite</a></li>
+		<li><a href="#install"><i class="fa fa-hand-o-right"></i> Install Visual Studio 2013</a></li>
+		<li><a href="#OpenWaSendercode"><i class="fa fa-hand-o-right"></i> Open WaSender code files in Visual Studio</a></li>
+		<li><a href="#ChangeSoftwareName"><i class="fa fa-hand-o-right"></i> How to Change Software Name</a></li>
+		<li><a href="#ChangeSoftwareLogo"><i class="fa fa-hand-o-right"></i> How to Change Software Logo</a></li>
+		<li><a href="#RemoveActivationprocess"><i class="fa fa-hand-o-right"></i> Want to Remove Activation process ?</a></li>
+		<li><a href="#CreateSetUpfiles"><i class="fa fa-hand-o-right"></i> How to Create SetUp files</a></li>
+		
+	
+		<li><a href="#rating"><i class="fa fa-hand-o-right"></i> Rating</a></li>
+		<li><a href="#credits"><i class="fa fa-hand-o-right"></i> Credits</a></li>
+    </ul>
+  </nav>  
+</section>
+<div id="wrapper">
+  <div id="main">
+    <section >
+      <div class="container">
+        <header class="major">
+          <h2>WaSender 1.0</h2>
+        </header>
+        <div class="borderTop">
+          <div class="span-6 colborder info prepend-1">
+            <p class="prepend-top"> <strong>Created:- 18 Jan 2022<br>
+              Company:- TrendingApps<br>
+              Contact:- <a href="mailto:trendingappsv2@gmail.com" style='color:#0e8bcb' target="_blank">trendingappsv2@gmail.com</a> </strong> </p>
+          </div>
+          <div class="span-12 last">
+            <p class="prepend-top append-0">Thank you for purchasing the app. If you have any questions that are beyond the scope of this help file, please feel free to message me via mail <a href="mailto:trendingappsv2@gmail.com" style='color:#0e8bcb' target="_blank">trendingappsv2@gmail.com</a>. Thanks so much!</p>
+          </div>
+        </div>
+		<div class="section_bdr"></div>	
+
+       <section id="eclipseversion">
+          <div class="container"> <br>
+            <h2>Prerequisite</h2>
+            <p>
+			1)  Download .Net Framework 4.6.1 runtime setup from Bellow url
+			 <br>
+			 <a style="color:#0e8bcb" href="https://dotnet.microsoft.com/en-us/download/dotnet-framework/net461" target="_blank">https://dotnet.microsoft.com/en-us/download/dotnet-framework/net461</a>
+			<br /><br />
+			<img src="images/01.png">
+			2) Download and Install Google Chrome
+            </p>	
+            <div class="section_bdr"></div>
+          </div>
+        </section>
+        <div class="section_bdr"></div>
+		
+		
+		
+		 <section id="install">
+          <div class="container"> <br>
+            <h2>Install Visual Studio 2013</h2>
+			<ol>
+				<li>
+				
+					Click on this link <a href="https://go.microsoft.com/fwlink/?LinkId=517284" target="_blank">https://go.microsoft.com/fwlink/?LinkId=517284</a>  
+					<Br>
+					it will download VS 2013 installer
+				</li>
+				<li>
+					Double click and run the installer <br>
+					<img src="assets/install2.png">
+				</li>
+				
+				<li>
+					Check all checkboxes  , the click on INstall Button<br>
+					<img src="assets/install3.png">
+				</li>
+				
+				<li>
+					It can take some time as per your computer speed and internet speed
+					<img src="assets/install4.png">
+				</li>
+				
+				<li>
+					After successful installation , Screen will be this , hit LAUNCH button
+					<img src="assets/install5.png">
+				</li>
+				
+				<li>
+					Or Search for 'Visual Studio 2013' , Open it
+					<img src="assets/install6.png">
+				</li>
+				
+			</ol>
+          </div>
+        </section>
+        <div class="section_bdr"></div>
+		
+		
+		 <section id="OpenWaSendercode">
+          <div class="container"> <br>
+            <h2>Open WaSender code files in Visual Studio</h2>
+			<ol>
+				
+				<li>
+					After Opeining the Visual studio, GO to Files->Open->Project/Solution..
+					<img src="assets/install7.png">
+				</li>
+				
+				<li>
+					It will open File dialogbox, Navigate to WaSender code files in 'CodeHere' folder  and select <b>'WaSender.sln'</b> file, Then click on 'open' buton
+					<img src="assets/install8.png">
+				</li>
+				
+				<li>
+					If you able to find 'Solution Explorer' window, it mease , WaSender COde files are opened successfully, In the solution explorer you can find all code files and forms
+					<img src="assets/install9.png">
+				</li>
+			</ol>
+          </div>
+        </section>
+        <div class="section_bdr"></div>
+		
+		
+		
+		<section id="ChangeSoftwareName">
+          <div class="container"> <br>
+            <h2>How to Change Software Name</h2>
+			<ol>
+				
+				<li>
+					In the solution explorer under the 'WASender' folder, fins 'strings.cs' file , double click and open it.
+					you can find 'AppName' as 'Wa Sender 1.0' string here, Replace it with your Own Software name 
+					<img src="assets/install10.png">
+				</li>
+				
+				<li>
+					Now you need to change SetUp file Name it will shown on your software installetion process. <br>
+					in the solution explorer ,Right Click on 'WaSenderSetUp' project and  click on Properties
+					<img src="assets/install11.png">
+				</li>
+				
+				<li>
+					Give any Name for your installer file insted of 'WaSenderSetUp'
+					<img src="assets/install12.png">
+				</li>
+				
+				<li>
+					All right, Now From the 'Solution explorer', under 'WaSenderSetUp' project, find 'Promary output from WaSender(Active)' file, double click on it.
+					<img src="assets/install20.png">
+				</li>
+				
+				<li>
+					Click on 'Users Desktop' folder and find 'WaSender'   file at right side <br>
+					<img src="assets/install21.png">
+				</li>
+				<li>
+					Right Click on 'WaSender' file from left side's pen, the Click on 'Properties Window' option <br>
+					<img src="assets/install22.png">
+				</li>
+				<li>
+					Here you can see all properties of this file,
+					<img src="assets/install23.png">
+				</li>
+				<li>
+					Replace 'WaSender' to your name
+					<img src="assets/install24.png">
+				</li>
+				<li>
+					Lick on Save button or Press 'Control + S'
+				</li>
+				<li>
+					Same like 'Users Desktop', do same process for 'Users Programs Menu'
+					<img src="assets/install25.png">
+				</li>
+				
+			</ol>
+          </div>
+        </section>
+        <div class="section_bdr"></div>
+		
+		
+		<section id="ChangeSoftwareLogo">
+          <div class="container"> <br>
+            <h2>How to Change Software Logo</h2>
+			<ol>
+				
+				<li>
+					Firs of all, you need ICON file of your logo in '.ico' file format. If you dont have, you can convert it from internet, with searching on google<br>
+					(i.e. ong to ico converter online). <br>
+					Once you got your icon file, In visual studio, from 'Solution exploter' Right click on 'WaSender' project , and click on 'Properties'.
+					<img src="assets/install13.png">
+				</li>
+				<li>
+					In the opened window , Under 'Application' Section , you can find the current icon of software in 'Incons and manifest' section.
+					If you want to change it, CLick on those three donts inder 'icon'section,
+					<img src="assets/install14.png">
+				</li>
+				<li>
+					Choose your Icon file (with .ico) extention and click 'OK' buton.
+				</li>
+				<li>
+					Your choosen ico file name will appere here , select it from this dropdown, and Pres CTRL + S and then you can close this tab  
+					<img src="assets/install15.png">
+				</li>
+				
+				<li>
+					Now From the 'Solution Explorer', Under 'WaSender' project, find 'Activate.cs' file. right click on it and Click on 'View Designer' option <br>
+					<img src="assets/install16.png">
+				</li>
+				<li>
+					It will open Activator form in designer mode, right Click on Very top section of this form, then CLick on 'Properties'
+					<img src="assets/install17.png">
+				</li>
+				<li>
+					At left side of Visual Studio, it will open all properties of this activator form. Find 'ICON' property from properties section
+					<img src="assets/install18.png">
+				</li>
+				
+				<li>
+					Change the existing iconf with the help fo this three dots button '...', CLick on it
+					<img src="assets/install19.png">
+				</li>
+				<li>
+					Choose your Icon file (with .ico) extention and click 'OK' buton.
+				</li>
+				<li>
+					Then Dont forget to press Control + S (Save) button.
+				</li>
+				<li>
+					Now Same like 'Activate.cs' form, change the icon with same above process for below forms  as well
+					<ol>
+						<li> AddKeyMarker.cs</li>
+						<li> AddKeyMarker.cs</li>
+						<li> AddMessage.cs</li>
+						<li> AddRule.cs</li>
+						<li> GetGroupMember.cs</li>
+						<li> GrabChatList.cs</li>
+						<li> GrabGroupLinks.cs</li>
+						<li> GroupsJoiner.cs</li>
+						<li> KeyMarker.cs</li>
+						<li> RunGroup.cs</li>
+						<li> RunSingle.cs</li>
+						<li> WaAutoReplyForm.cs</li>
+						<li> WaSenderForm.cs</li>
+					</ol>
+				</li>
+				<li>
+					All right, Now From the 'Solution explorer', under 'WaSenderSetUp' project, find 'Promary output from WaSender(Active)' file, double click on it.
+					<img src="assets/install20.png">
+				</li>
+				
+				<li>
+					Click on 'Users Desktop' folder and find 'WaSender'   file at right side <br>
+					<img src="assets/install21.png">
+				</li>
+				<li>
+					Right Click on 'WaSender' file from left side's pen, the Click on 'Properties Window' option <br>
+					<img src="assets/install22.png">
+				</li>
+				<li>
+					Here you can see all properties of this file,
+					<img src="assets/install23.png">
+				</li>
+				
+				<li>
+					Ind the Icon property , and choose '(Browse)' option.
+					<img src="assets/install26.png">
+				</li>
+				<li>
+					from new window , Click on 'Browse' button
+					<img src="assets/install27.png">
+				</li>
+				<li>
+					Using 'Add File' import your own Logo file with .ico extention. 
+					<img src="assets/install28.png">
+				</li>
+				<li>
+					Select your added file , and click on 'ok'<br> 
+					<img src="assets/install29.png">
+				</li>
+				<li>
+					Select your added file again, and click on 'ok'<br> 
+					<img src="assets/install30.png">
+				</li>
+				<li>
+					Lick on Save button or Press 'Control + S'
+				</li>
+				<li>
+					Same like 'Users Desktop', do same process for 'Users Programs Menu'
+					<img src="assets/install31.png">
+				</li>
+				
+				
+				
+			</ol>
+          </div>
+        </section>
+        <div class="section_bdr"></div>
+		
+		
+		
+		
+		
+		
+		
+		
+		<section id="RemoveActivationprocess">
+          <div class="container"> <br>
+            <h2>Want to Remove Activation process ?</h2>
+			<ol>
+				
+				<li>
+					
+					In the Solution explorer, Under 'WaSender' project, find 'WaSenderForm.cs' file, Right Click on it and Click on 'View Code' option
+					<br>
+					<img src="assets/install38.png">
+				</li>
+				<li>
+					Find 'CHeckForActivation()' function from opened code.
+					and Delete this selected code 
+					
+					<br>
+					<img src="assets/install39.png">
+				</li>
+				<li>
+					Now Press Save or Press Controll + Save 
+				</li>
+				<li>
+					Then Press Control + Shift + B (to build this changes)
+				</li>
+				<li>
+					Now Create new Setup file with this change with the help of 'How to create SetUp file' section in this document
+				</li>
+				
+				
+				
+			</ol>
+          </div>
+        </section>
+        <div class="section_bdr"></div>
+		
+		
+		
+		
+		
+
+		
+		<section id="CreateSetUpfiles">
+          <div class="container"> <br>
+            <h2>How to Create SetUp files</h2>
+            
+            
+			<li>
+				For creating setup files with updated Software name and logo, you need to delete privious Setup file first, for that <br>
+				In 'solution explorer', Right Click on 'WaSenderSetUp' project , then click 'Open Folder in file explorer' <Br>
+				
+				<img src="assets/install32.png">
+			</li>
+			<li>
+				It will open this setup  project in explorer, now find 'Debug' folder and delete it
+				
+				<img src="assets/install33.png">
+			</li>
+			
+			<li>
+				Come back to Visula Studio, <br>
+				In 'solution explorer', Right Click on 'WaSenderSetUp' project , then click on 'Buid' Option
+				
+				<img src="assets/install34.png">
+			</li>
+			
+			<li>
+				It will start Creating SetUp files.
+				
+				<img src="assets/install35.png">
+			</li>
+			
+			<li>
+				After successfull build, it will show you like this
+				<img src="assets/install36.png">
+			</li>
+			
+			<li>
+				For the newly created SetUp files, again  from 'solution explorer', Right Click on 'WaSenderSetUp' project , then click 'Open Folder in file explorer'
+				<br>
+				<img src="assets/install32.png">
+			</li>
+			<li>
+				It will open this setup  project in explorer, Open It
+				<img src="assets/install33.png">
+			</li>
+			
+			<li>
+				Congrats ! those are your SetUp files
+				<img src="assets/install37.png">
+			</li>
+			
+          </div>
+        </section>
+         <div class="section_bdr"></div>
+      
+	
+		
+	
+		
+	
+
+      
+        <section id="rating">
+          <div class="container"> <br>
+            <h2>Rating</h2>
+            <p>If you like our app, we will highly appreciate if you can provide us a rating of 5. You can rate us from your Codecanyon Menu > Download page.</p>
+            <div class="section_bdr"></div>
+          </div>
+        </section>
+
+        <section id="credits">
+          <div class="container"> <br>
+            <h2>Credits</h2>
+            
+            <p>Once again, thank you so much for purchasing this app. As I said at the beginning, I'd be glad to help you if you have any questions relating to this app. No guarantees, but I'll do my best to assist. If you have a more general question relating to the apps on Codecanyon, you might consider visiting the "FAQ / Support" section and asking your question in the "Comments" section at Codecanyon app detail page.</p>
+            <p class="append-bottom alt large"><strong>TrendingApps</strong><br />
+              
+          </div>
+        </section>
+        
+        <!-- Footer -->
+  
+      </div>
+    </section>
+  </div>
+</div>
+<!-- Scripts --> 
+<script src="assets/js/jquery.min.js"></script> 
+<script src="assets/js/jquery.scrollzer.min.js"></script> 
+<script src="assets/js/jquery.scrolly.min.js"></script> 
+<script src="assets/js/skel.min.js"></script> 
+<script src="assets/js/util.js"></script> 
+<script src="assets/js/main.js"></script> 
+<script>
+$(document).ready(function(){
+	$(window).scroll(function(){
+		if ($(this).scrollTop() > 100) {
+			$('.scrollup').fadeIn();
+		} else {
+			$('.scrollup').fadeOut();
+		}
+	});
+	$('.scrollup').click(function(){
+		$("html, body").animate({ scrollTop: 0 }, 600);
+		return false;
+	});
+});
+</script>
+<div><a href="#" class="scrollup">Scroll</a></div>
+</body>
+</html>

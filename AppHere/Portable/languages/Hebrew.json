@@ -1,0 +1,822 @@
+[
+    {
+        "name": "AppName",
+        "value": "Wa Sender 1.0"
+    },
+    {
+        "name": "Column1",
+        "value": "עמודה 1"
+    },
+    {
+        "name": "Number",
+        "value": "מספר"
+    },
+    {
+        "name": "Column2",
+        "value": "עמודה 2"
+    },
+    {
+        "name": "DownloadSample",
+        "value": "הורד לדוגמה אקסל"
+    },
+    {
+        "name": "UploadSampleExcel",
+        "value": "העלה את אקסל"
+    },
+    {
+        "name": "ContectSender",
+        "value": "צור קשר עם השולח"
+    },
+    {
+        "name": "GroupSender",
+        "value": "שולח קבוצה"
+    },
+    {
+        "name": "Tools",
+        "value": "כלים"
+    },
+    {
+        "name": "Filedownloadedsuccessfully",
+        "value": "הקובץ הורד בהצלחה!"
+    },
+    {
+        "name": "WABulkSender",
+        "value": "שולח בתפזורת WA"
+    },
+    {
+        "name": "SelectExcel",
+        "value": "בחר אקסל"
+    },
+    {
+        "name": "PleaseselectExcelfilesformatonly",
+        "value": "אנא בחר בפורמט קבצי Excel (.xls) בלבד"
+    },
+    {
+        "name": "AddNew",
+        "value": "הוסף חדש"
+    },
+    {
+        "name": "KeyMarkers",
+        "value": "סמני מפתח"
+    },
+    {
+        "name": "AddKeyMarker",
+        "value": "הוסף KeyMarker"
+    },
+    {
+        "name": "SaveNClose",
+        "value": "להציל"
+    },
+    {
+        "name": "KeyMarkerFormatinIncorrect",
+        "value": "פורמט סמן מפתח בשגוי"
+    },
+    {
+        "name": "OK",
+        "value": "בסדר"
+    },
+    {
+        "name": "SelectedKeyMarkeralreadyExist",
+        "value": "KeyMarker שנבחר כבר קיים"
+    },
+    {
+        "name": "Delete",
+        "value": "לִמְחוֹק"
+    },
+    {
+        "name": "WrongKey",
+        "value": "סמן מפתח מתחיל ב-{{ KEY :"
+    },
+    {
+        "name": "Target",
+        "value": "יַעַד"
+    },
+    {
+        "name": "Messages",
+        "value": "הודעות"
+    },
+    {
+        "name": "MessageOne",
+        "value": "הודעה 1"
+    },
+    {
+        "name": "MessageTwo",
+        "value": "הודעה 2"
+    },
+    {
+        "name": "MessageThree",
+        "value": "הודעה 3"
+    },
+    {
+        "name": "MessageFour",
+        "value": "הודעה 4"
+    },
+    {
+        "name": "MessageFive",
+        "value": "הודעה 5"
+    },
+    {
+        "name": "Attachments",
+        "value": "קבצים מצורפים"
+    },
+    {
+        "name": "Addfile",
+        "value": "הוסף קובץ"
+    },
+    {
+        "name": "Yourfirstmessage",
+        "value": "* ההודעה הראשונה שלך"
+    },
+    {
+        "name": "YourSecondmessage",
+        "value": "* ההודעה השנייה שלך"
+    },
+    {
+        "name": "YourThirdmessage",
+        "value": "* ההודעה השלישית שלך"
+    },
+    {
+        "name": "YourFourthmessage",
+        "value": "* ההודעה הרביעית שלך"
+    },
+    {
+        "name": "YourFifthmessage",
+        "value": "* ההודעה החמישית שלך"
+    },
+    {
+        "name": "DelaySettings",
+        "value": "הגדרות השהייה"
+    },
+    {
+        "name": "Wait",
+        "value": "לַחֲכוֹת"
+    },
+    {
+        "name": "secondsafterevery",
+        "value": "שניות אחרי כל"
+    },
+    {
+        "name": "to",
+        "value": "ל"
+    },
+    {
+        "name": "Clear",
+        "value": "ברור"
+    },
+    {
+        "name": "StartCampaign",
+        "value": "התחל מסע פרסום"
+    },
+    {
+        "name": "secondsbeforeeverymessage",
+        "value": "שניות לפני כל הודעה"
+    },
+    {
+        "name": "AddKeyMarkers",
+        "value": "הוסף KeyMarkers"
+    },
+    {
+        "name": "RandomNumber",
+        "value": "מספר אקראי"
+    },
+    {
+        "name": "PleaseEnterCampaignName",
+        "value": "נא להזין את שם הקמפיין"
+    },
+    {
+        "name": "CampaignName",
+        "value": "שם מסע הפרסום"
+    },
+    {
+        "name": "UntitledGroupCampaign",
+        "value": "קמפיין קבוצתי ללא כותרת"
+    },
+    {
+        "name": "UntitledCampaign",
+        "value": "מסע פרסום ללא כותרת"
+    },
+    {
+        "name": "RowNo",
+        "value": "שורה מס'"
+    },
+    {
+        "name": "Errors",
+        "value": "שגיאות"
+    },
+    {
+        "name": "WhatsAppBot",
+        "value": "WhatsApp Bot"
+    },
+    {
+        "name": "Rules",
+        "value": "כללים"
+    },
+    {
+        "name": "AddRule",
+        "value": "הוסף כלל"
+    },
+    {
+        "name": "Log",
+        "value": "עֵץ"
+    },
+    {
+        "name": "Status",
+        "value": "סטָטוּס"
+    },
+    {
+        "name": "Start",
+        "value": "הַתחָלָה"
+    },
+    {
+        "name": "Stop",
+        "value": "תפסיק"
+    },
+    {
+        "name": "IsActive",
+        "value": "IsActive"
+    },
+    {
+        "name": "UserInput",
+        "value": "קלט משתמש"
+    },
+    {
+        "name": "Type",
+        "value": "סוּג"
+    },
+    {
+        "name": "Match",
+        "value": "התאמה"
+    },
+    {
+        "name": "ReplySend",
+        "value": "השב שלח"
+    },
+    {
+        "name": "NotMatch",
+        "value": "לא תואם"
+    },
+    {
+        "name": "Fallback",
+        "value": "לסגת"
+    },
+    {
+        "name": "PleaseaddRules",
+        "value": "נא להוסיף כללים"
+    },
+    {
+        "name": "Run",
+        "value": "לָרוּץ"
+    },
+    {
+        "name": "InitiateWhatsAppScaneQRCodefromyourrmobile",
+        "value": "ליזום WhatsApp"
+    },
+    {
+        "name": "ClicktoInitiate",
+        "value": "לחץ כדי להתחיל"
+    },
+    {
+        "name": "ChatName",
+        "value": "שם צאט"
+    },
+    {
+        "name": "ImportentNotes",
+        "value": "הערות חשובות"
+    },
+    {
+        "name": "Keepapplicationopenwhilesendingmessagesanduntilallmessagesaresentfromyourmobile",
+        "value": "1) השאר את האפליקציה פתוחה בזמן שליחת הודעות ועד שכל ההודעות יישלחו מהנייד שלך"
+    },
+    {
+        "name": "ClearWhatsAppchathistoryafter5001000150020000messagesasperyourphoneconfiguration",
+        "value": "2) נקה היסטוריית צ'אט של WhatsApp לאחר 500/1000/1500/20000 הודעות לפי תצורת הטלפון שלך"
+    },
+    {
+        "name": "WaSendertendstosubmitmessagestoyourphoneisnotresponsiblefordeliveryofthemessage",
+        "value": "3) WaSender נוטה לשלוח הודעות לטלפון שלך, אינה אחראית למשלוח ההודעה"
+    },
+    {
+        "name": "Completed",
+        "value": "הושלם"
+    },
+    {
+        "name": "PleasefollowStepNo1FirstInitialiseWhatsapp",
+        "value": "אנא עקוב אחר שלב מס' 1. ראשית, אתחול וואטסאפ"
+    },
+    {
+        "name": "Processisalreadyrunning",
+        "value": "התהליך כבר פועל"
+    },
+    {
+        "name": "RunGroup",
+        "value": "הפעל קבוצה"
+    },
+    {
+        "name": "KeyMarker",
+        "value": "KeyMarker"
+    },
+    {
+        "name": "Select",
+        "value": "בחר"
+    },
+    {
+        "name": "GroupsJoiner",
+        "value": "מצטרפת לקבוצות"
+    },
+    {
+        "name": "GroupJoin",
+        "value": "הצטרפות לקבוצה"
+    },
+    {
+        "name": "secondsbeforeeveryGroupJoin",
+        "value": "שניות לפני כל הצטרפות לקבוצה"
+    },
+    {
+        "name": "StartJoining",
+        "value": "התחל להצטרף"
+    },
+    {
+        "name": "GroupLink",
+        "value": "קישור לקבוצה"
+    },
+    {
+        "name": "PleaseFollowStepnoThree",
+        "value": "אנא עקוב אחר שלב מס' 3"
+    },
+    {
+        "name": "GrabGroupLinks",
+        "value": "תפס קישורי קבוצה"
+    },
+    {
+        "name": "OpenBrowser",
+        "value": "פתח דפדפן"
+    },
+    {
+        "name": "Clickbellowbuttontoopenbrowser",
+        "value": "לחץ על הכפתור למטה כדי לפתוח את הדפדפן"
+    },
+    {
+        "name": "Navigatetoanywebsitewherelistedgrouplinkstheclickbellowbellowbuton",
+        "value": "נווט לכל אתר , שבו מופיעים קישורי קבוצה, לחץ על הלחצן למטה"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "התחל לתפוס"
+    },
+    {
+        "name": "NoGroupLinkfoundincurrentPage",
+        "value": "לא נמצא קישור קבוצה בדף הנוכחי"
+    },
+    {
+        "name": "GrabChatList",
+        "value": "תפוס רשימת צ'אטים"
+    },
+    {
+        "name": "InitiateWhatsAppScaneQRCodefromyourmobile",
+        "value": "ליזום WhatsApp"
+    },
+    {
+        "name": "GetGroupMember",
+        "value": "קבל חבר קבוצה"
+    },
+    {
+        "name": "OpenanyGroupchatClickbuttonbellow",
+        "value": "פתח כל צ'אט קבוצתי"
+    },
+    {
+        "name": "PleaseGotoanygroupchat",
+        "value": "נא ללכת לכל צ'אט קבוצתי"
+    },
+    {
+        "name": "fallback",
+        "value": "לסגת"
+    },
+    {
+        "name": "Usefallback",
+        "value": "השתמש ב-fallback"
+    },
+    {
+        "name": "If",
+        "value": "אם..."
+    },
+    {
+        "name": "UserSend",
+        "value": "שלח משתמש..."
+    },
+    {
+        "name": "Condition",
+        "value": "מַצָב"
+    },
+    {
+        "name": "Which",
+        "value": "איזה"
+    },
+    {
+        "name": "ThenReplywith",
+        "value": "לאחר מכן, השב עם..."
+    },
+    {
+        "name": "AddMessage",
+        "value": "הוסף הודעה"
+    },
+    {
+        "name": "Message",
+        "value": "הוֹדָעָה"
+    },
+    {
+        "name": "Cancel",
+        "value": "לְבַטֵל"
+    },
+    {
+        "name": "Save",
+        "value": "להציל"
+    },
+    {
+        "name": "Confirm",
+        "value": "לְאַשֵׁר"
+    },
+    {
+        "name": "AreyousuretodeletethisRule",
+        "value": "האם אתה בטוח שתמחק את הכלל הזה"
+    },
+    {
+        "name": "ReplyMessage",
+        "value": "השב להודעה"
+    },
+    {
+        "name": "TypeYourMessagehere",
+        "value": "הקלד את הודעתך כאן"
+    },
+    {
+        "name": "Files",
+        "value": "קבצים"
+    },
+    {
+        "name": "Add",
+        "value": "לְהוֹסִיף"
+    },
+    {
+        "name": "GroupNames",
+        "value": "שמות קבוצות"
+    },
+    {
+        "name": "PleaseCheckMobileNumberyouhaveadded",
+        "value": "אנא בדוק את מספר הנייד שהוספת"
+    },
+    {
+        "name": "ShouldNotbeempty",
+        "value": "לא אמור להיות ריק"
+    },
+    {
+        "name": "ContactNumberShouldNotbeEmpty",
+        "value": "מספר איש קשר לא צריך להיות ריק"
+    },
+    {
+        "name": "MessageShouldNotbeEmpty",
+        "value": "ההודעה לא צריכה להיות ריקה"
+    },
+    {
+        "name": "delayAfterMessagesShouldNotbeEmpty",
+        "value": "עיכוב לאחר הודעות לא אמור להיות ריק"
+    },
+    {
+        "name": "delayAfterMessagesFromShouldNotbeEmpty",
+        "value": "עיכוב לאחר הודעות מאת לא אמור להיות ריק"
+    },
+    {
+        "name": "delayAfterMessagesTOShouldNotbeEmpty",
+        "value": "עיכוב לאחר הודעות אל לא אמור להיות ריק"
+    },
+    {
+        "name": "delayAfterEveryMessageFromShouldNotbeEmpty",
+        "value": "עיכוב לאחר כל הודעה מאת לא אמור להיות ריק"
+    },
+    {
+        "name": "delayAfterEveryMessageToShouldNotbeEmpty",
+        "value": "Delay AfterEvery Message To לא אמורה להיות ריקה"
+    },
+    {
+        "name": "ShouldGraterthenoero",
+        "value": "אם פומפיה צריכה להיות 0"
+    },
+    {
+        "name": "delayAfterMessages_ShouldGraterthenoero",
+        "value": "עיכוב לאחר הודעות צריך לפומפיה ואז 0"
+    },
+    {
+        "name": "delayAfterMessagesFrom_ShouldGraterthenoero",
+        "value": "עיכוב לאחר הודעות מאת צריך פומפיה ואז 0"
+    },
+    {
+        "name": "delayAfterMessagesTo_ShouldGraterthenoero",
+        "value": "עיכוב לאחר הודעות שאמורים לפומפיה ואז 0"
+    },
+    {
+        "name": "delayAfterEveryMessageFrom_ShouldGraterthenoero",
+        "value": "עיכוב לאחר כל הודעה מאת צריך פומפיה ואז 0"
+    },
+    {
+        "name": "delayAfterEveryMessageTo_ShouldGraterthenoero",
+        "value": "עיכוב אחרי כל הודעה צריך לפומפיה ואז 0"
+    },
+    {
+        "name": "thetoamountismustbegraterthenstartingamount",
+        "value": "סכום ה-'to' הוא חייב להיות פומפיה ואז הסכום ההתחלתי"
+    },
+    {
+        "name": "UsermessageMustEmptyincaseoffallback",
+        "value": "הודעת משתמש חייבת להתרוקן במקרה של סתירה"
+    },
+    {
+        "name": "PleaseAddatleastoneMessage",
+        "value": "הוסף הודעה אחת לפחות"
+    },
+    {
+        "name": "PleaseEnterAmessage",
+        "value": "אנא הכנס הודעה"
+    },
+    {
+        "name": "PleaseaddatleastoneGroupinlist",
+        "value": "הוסף לפחות קבוצה אחת ברשימה"
+    },
+    {
+        "name": "PleaseaddatleastoneContactinlist",
+        "value": "הוסף לפחות איש קשר אחד ברשימה"
+    },
+    {
+        "name": "ClickbellowButton",
+        "value": "1) לחץ על הלחצן למטה"
+    },
+    {
+        "name": "ScanQRCode",
+        "value": "2) סרוק קוד QR"
+    },
+    {
+        "name": "WaitfortheExcel",
+        "value": "3) המתן לאקסל"
+    },
+    {
+        "name": "Now",
+        "value": "עַכשָׁיו"
+    },
+    {
+        "name": "GrabNow",
+        "value": "תפוס עכשיו"
+    },
+    {
+        "name": "GrabGroupMembers",
+        "value": "תפוס את חברי הקבוצה"
+    },
+    {
+        "name": "ClickbellowButtonScanQRCode",
+        "value": "1) לחץ למטה על הלחצן סרוק קוד QR"
+    },
+    {
+        "name": "OpenAnyGroup",
+        "value": "2) פתח כל קבוצה"
+    },
+    {
+        "name": "GrabWhatsAppGroupLinksfromwebpage",
+        "value": "קבל קישורים לקבוצות WhatsApp מדף האינטרנט"
+    },
+    {
+        "name": "OpenAnywebpagewheregivengrouplinks",
+        "value": "2) פתח כל דף אינטרנט שבו ניתנים קישורים לקבוצה"
+    },
+    {
+        "name": "ThenClickonSTARTButton",
+        "value": "3) לאחר מכן לחץ על לחצן התחל"
+    },
+    {
+        "name": "AutoGroupJoiner",
+        "value": "Auto Group Joiner"
+    },
+    {
+        "name": "AddUploadGroupLinks",
+        "value": "1) הוסף / העלה קישורי קבוצה"
+    },
+    {
+        "name": "ScanWAQRCode",
+        "value": "2) סרוק קוד QR של WA"
+    },
+    {
+        "name": "StartNow",
+        "value": "התחל עכשיו"
+    },
+    {
+        "name": "WhatsAppAutoResponderBot",
+        "value": "WhatsApp Auto Responder Bot"
+    },
+    {
+        "name": "SetRules",
+        "value": "1) קבע כללים"
+    },
+    {
+        "name": "AddReplyMessages",
+        "value": "2) הוסף הודעות תשובה"
+    },
+    {
+        "name": "GeneralSettings",
+        "value": "הגדרות כלליות"
+    },
+    {
+        "name": "ChromeProfilePath",
+        "value": "נתיב פרופיל Chrome"
+    },
+    {
+        "name": "InputPathisnotCorrectfolderpath",
+        "value": "נתיב קלט אינו נתיב תיקייה נכון"
+    },
+    {
+        "name": "SettingsSavedSuccessfully",
+        "value": "ההגדרות נשמרו בהצלחה"
+    },
+    {
+        "name": "MessageSendingType",
+        "value": "סוג שליחת הודעה"
+    },
+    {
+        "name": "CopyPaste",
+        "value": "העתק הדבק"
+    },
+    {
+        "name": "Typeamessage",
+        "value": "הקלד הודעה"
+    },
+    {
+        "name": "Activate",
+        "value": "לְהַפְעִיל"
+    },
+    {
+        "name": "ActivateAppName",
+        "value": "הפעל את WaSender"
+    },
+    {
+        "name": "YourActivationCodeis",
+        "value": "קוד ההפעלה שלך הוא..."
+    },
+    {
+        "name": "ProvideYourActivationKeyHere",
+        "value": "ספק את מפתח ההפעלה שלך כאן..."
+    },
+    {
+        "name": "ActivateNow",
+        "value": "הפעל עכשיו"
+    },
+    {
+        "name": "Exit",
+        "value": "יְצִיאָה"
+    },
+    {
+        "name": "ActivationSuccessfull",
+        "value": "ההפעלה הצליחה"
+    },
+    {
+        "name": "InvalidActivationKey",
+        "value": "מפתח הפעלה לא חוקי"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "הַתחָלָה"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "הַתחָלָה"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "הַתחָלָה"
+    },
+    {
+        "name": "LanguageIsSet",
+        "value": "השפה מוגדרת.  אנא הפעל מחדש את התוכנה"
+    },
+    {
+        "name": "Name",
+        "value": "שֵׁם"
+    },
+    {
+        "name": "WhatsAppNumberFilter",
+        "value": "מסנן מספרי WhatsApp"
+    },
+    {
+        "name": "AddUploadNumbers",
+        "value": "1) הוסף / העלה מספרים"
+    },
+    {
+        "name": "NumberCheck",
+        "value": "בדיקת מספר"
+    },
+    {
+        "name": "secondsbeforeeveryNumberCheck",
+        "value": "שניות לפני כל בדיקת מספרים"
+    },
+    {
+        "name": "StartChecking",
+        "value": "התחל לבדוק"
+    },
+    {
+        "name": "ContactListGrabber",
+        "value": "תופס רשימת אנשי קשר"
+    }
+    ,
+    {
+        "name": "HitGrabNowButton",
+        "value": "2) לחץ על לחצן 'תפוס עכשיו'"
+    },
+    {
+        "name": "GrabActiveGroupMembers",
+        "value": "תפוס חברי קבוצה פעילים"
+    }
+    ,
+    {
+        "name": "TotalFound ",
+        "value": "סך הכל נמצא "
+    },
+    {
+        "name": "Export",
+        "value": "יְצוּא"
+    },
+    {
+        "name": "Nothingtoexport",
+        "value": "אין מה לייצא"
+    }
+	
+	
+	,
+    {
+        "name": "GoogleMapDataEExtractor",
+        "value": "Google Map מחלץ נתונים"
+    }
+	,
+    {
+        "name": "Usethatwindowtosearchforbusinessesandwhensearchresultsareshown",
+        "value": "השתמש בחלון זה כדי לחפש עסקים וכאשר תוצאות החיפוש מוצגות \n לחץ על הלחצן 'התחל לתפוס' כדי להפעיל את הסורק."
+    },
+    {
+        "name": "PleaseSearchsomething",
+        "value": "בבקשה חפש משהו"
+    },
+    {
+        "name": "ImportInWaSender",
+        "value": "ייבוא ​​מספרים"
+    },
+    {
+        "name": "EnterCountryCode",
+        "value": "הזן קוד מדינה"
+    },
+    {
+        "name": "SearchYourQUeryonGMap",
+        "value": "חפש את השאילתה שלך ב-G Map"
+    },
+    {
+        "name": "HitStart",
+        "value": "לחץ על התחל"
+    },
+    {
+        "name": "Count",
+        "value": "לספור"
+    },
+    {
+        "name": "ReviewCount",
+        "value": "ספירת ביקורות"
+    },
+    {
+        "name": "Catagory",
+        "value": "קטגוריה"
+    },
+    {
+        "name": "MobileNumber",
+        "value": "מספר טלפון נייד"
+    }
+	,
+    {
+        "name": "Address",
+        "value": "כתובת"
+    },
+    {
+        "name": "Website",
+        "value": "אתר אינטרנט"
+    },
+    {
+        "name": "PlusCode",
+        "value": "PlusCode"
+    }
+	,
+    {
+        "name": "AddCountryCode",
+        "value": "הוסף קוד מדינה"
+    },
+    {
+        "name": "One",
+        "value": "1) "
+    },
+	{
+        "name": "Two",
+        "value": "2) "
+    },
+	{
+        "name": "Three",
+        "value": "3) "
+    }
+]

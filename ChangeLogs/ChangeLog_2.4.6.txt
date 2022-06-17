@@ -1,0 +1,3 @@
+Change Log - 2.4.6 (07 June 2022)
+----------------------------------
+* Google Map Data Extractor / scraper - Mobile Number not Getting for non english issue - fixed

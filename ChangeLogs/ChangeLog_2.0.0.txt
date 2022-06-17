@@ -1,0 +1,7 @@
+Change Log - 2.0.0 (04 Apr 2022)
+----------------------------------
+* Added Multilingual feature
+* Added total 15 Languages
+* Unable to Grab Group Members issue Resolved
+* Unable to join Groups when WHatsApp language is non english issue Resolved
+* WhatsApp Bot not working when WHatsApp language is non english issue Resolved

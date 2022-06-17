@@ -1,0 +1,4 @@
+Change Log - 2.4.5 (06 June 2022)
+----------------------------------
+* Google Map Data Extractor / scraper added
+* Bug Fixes

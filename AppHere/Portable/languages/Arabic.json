@@ -1,0 +1,823 @@
+[
+    {
+        "name": "AppName",
+        "value": "Wa Sender 1.0.0 تحديث"
+    },
+    {
+        "name": "Column1",
+        "value": "العمود 1"
+    },
+    {
+        "name": "Number",
+        "value": "رقم"
+    },
+    {
+        "name": "Column2",
+        "value": "العمود 2"
+    },
+    {
+        "name": "DownloadSample",
+        "value": "تنزيل نموذج Excel"
+    },
+    {
+        "name": "UploadSampleExcel",
+        "value": "تحميل إكسل"
+    },
+    {
+        "name": "ContectSender",
+        "value": "Contect Sender"
+    },
+    {
+        "name": "GroupSender",
+        "value": "مرسل المجموعة"
+    },
+    {
+        "name": "Tools",
+        "value": "أدوات"
+    },
+    {
+        "name": "Filedownloadedsuccessfully",
+        "value": "تم تنزيل الملف بنجاح!"
+    },
+    {
+        "name": "WABulkSender",
+        "value": "WA المرسل بالجملة"
+    },
+    {
+        "name": "SelectExcel",
+        "value": "حدد Excel"
+    },
+    {
+        "name": "PleaseselectExcelfilesformatonly",
+        "value": "يرجى تحديد تنسيق ملفات Excel (.xls) فقط"
+    },
+    {
+        "name": "AddNew",
+        "value": "اضف جديد"
+    },
+    {
+        "name": "KeyMarkers",
+        "value": "علامات المفتاح"
+    },
+    {
+        "name": "AddKeyMarker",
+        "value": "أضف KeyMarker"
+    },
+    {
+        "name": "SaveNClose",
+        "value": "يحفظ"
+    },
+    {
+        "name": "KeyMarkerFormatinIncorrect",
+        "value": "تنسيق علامة المفتاح غير صحيح"
+    },
+    {
+        "name": "OK",
+        "value": "نعم"
+    },
+    {
+        "name": "SelectedKeyMarkeralreadyExist",
+        "value": "KeyMarker المحدد موجود بالفعل"
+    },
+    {
+        "name": "Delete",
+        "value": "حذف"
+    },
+    {
+        "name": "WrongKey",
+        "value": "تبدأ علامة المفتاح بـ {{KEY:"
+    },
+    {
+        "name": "Target",
+        "value": "استهداف"
+    },
+    {
+        "name": "Messages",
+        "value": "رسائل"
+    },
+    {
+        "name": "MessageOne",
+        "value": "الرسالة 1"
+    },
+    {
+        "name": "MessageTwo",
+        "value": "الرسالة 2"
+    },
+    {
+        "name": "MessageThree",
+        "value": "الرسالة 3"
+    },
+    {
+        "name": "MessageFour",
+        "value": "الرسالة 4"
+    },
+    {
+        "name": "MessageFive",
+        "value": "الرسالة 5"
+    },
+    {
+        "name": "Attachments",
+        "value": "المرفقات"
+    },
+    {
+        "name": "Addfile",
+        "value": "اضف ملف"
+    },
+    {
+        "name": "Yourfirstmessage",
+        "value": "* رسالتك الأولى"
+    },
+    {
+        "name": "YourSecondmessage",
+        "value": "* رسالتك الثانية"
+    },
+    {
+        "name": "YourThirdmessage",
+        "value": "* رسالتك الثالثة"
+    },
+    {
+        "name": "YourFourthmessage",
+        "value": "* رسالتك الرابعة"
+    },
+    {
+        "name": "YourFifthmessage",
+        "value": "* رسالتك الخامسة"
+    },
+    {
+        "name": "DelaySettings",
+        "value": "إعدادات التأخير"
+    },
+    {
+        "name": "Wait",
+        "value": "انتظر"
+    },
+    {
+        "name": "secondsafterevery",
+        "value": "ثواني بعد كل"
+    },
+    {
+        "name": "to",
+        "value": "ل"
+    },
+    {
+        "name": "Clear",
+        "value": "صافي"
+    },
+    {
+        "name": "StartCampaign",
+        "value": "بدء الحملة"
+    },
+    {
+        "name": "secondsbeforeeverymessage",
+        "value": "ثواني قبل كل رسالة"
+    },
+    {
+        "name": "AddKeyMarkers",
+        "value": "أضف KeyMarkers"
+    },
+    {
+        "name": "RandomNumber",
+        "value": "رقم عشوائي"
+    },
+    {
+        "name": "PleaseEnterCampaignName",
+        "value": "الرجاء إدخال اسم الحملة"
+    },
+    {
+        "name": "CampaignName",
+        "value": "اسم الحملة"
+    },
+    {
+        "name": "UntitledGroupCampaign",
+        "value": "حملة جماعية بلا عنوان"
+    },
+    {
+        "name": "UntitledCampaign",
+        "value": "حملة بلا عنوان"
+    },
+    {
+        "name": "RowNo",
+        "value": "رقم الصف"
+    },
+    {
+        "name": "Errors",
+        "value": "أخطاء"
+    },
+    {
+        "name": "WhatsAppBot",
+        "value": "بوت WhatsApp"
+    },
+    {
+        "name": "Rules",
+        "value": "قواعد"
+    },
+    {
+        "name": "AddRule",
+        "value": "أضف القاعدة"
+    },
+    {
+        "name": "Log",
+        "value": "سجل"
+    },
+    {
+        "name": "Status",
+        "value": "حالة"
+    },
+    {
+        "name": "Start",
+        "value": "يبدأ"
+    },
+    {
+        "name": "Stop",
+        "value": "قف"
+    },
+    {
+        "name": "IsActive",
+        "value": "نشط"
+    },
+    {
+        "name": "UserInput",
+        "value": "إدخال المستخدم"
+    },
+    {
+        "name": "Type",
+        "value": "اكتب"
+    },
+    {
+        "name": "Match",
+        "value": "تطابق"
+    },
+    {
+        "name": "ReplySend",
+        "value": "أرسل الرد"
+    },
+    {
+        "name": "NotMatch",
+        "value": "لا يتطابق"
+    },
+    {
+        "name": "Fallback",
+        "value": "تراجع"
+    },
+    {
+        "name": "PleaseaddRules",
+        "value": "الرجاء إضافة القواعد"
+    },
+    {
+        "name": "Run",
+        "value": "يركض"
+    },
+    {
+        "name": "InitiateWhatsAppScaneQRCodefromyourrmobile",
+        "value": "ابدأ WhatsApp"
+    },
+    {
+        "name": "ClicktoInitiate",
+        "value": "انقر لبدء"
+    },
+    {
+        "name": "ChatName",
+        "value": "اسم الدردشة"
+    },
+    {
+        "name": "ImportentNotes",
+        "value": "ملاحظات هامة"
+    },
+    {
+        "name": "Keepapplicationopenwhilesendingmessagesanduntilallmessagesaresentfromyourmobile",
+        "value": "1) حافظ على التطبيق مفتوحًا أثناء إرسال الرسائل وحتى يتم إرسال جميع الرسائل من هاتفك المحمول"
+    },
+    {
+        "name": "ClearWhatsAppchathistoryafter5001000150020000messagesasperyourphoneconfiguration",
+        "value": "2) امسح سجل دردشة WhatsApp بعد رسائل 500/1000/1500/20000 حسب تكوين هاتفك"
+    },
+    {
+        "name": "WaSendertendstosubmitmessagestoyourphoneisnotresponsiblefordeliveryofthemessage",
+        "value": "3) يميل WaSender إلى إرسال الرسائل إلى هاتفك ، ولا يكون مسؤولاً عن تسليم الرسالة"
+    },
+    {
+        "name": "Completed",
+        "value": "مكتمل"
+    },
+    {
+        "name": "PleasefollowStepNo1FirstInitialiseWhatsapp",
+        "value": "يرجى اتباع الخطوة رقم 1. أولاً ، بدء تشغيل Whatsapp"
+    },
+    {
+        "name": "Processisalreadyrunning",
+        "value": "العملية قيد التشغيل بالفعل"
+    },
+    {
+        "name": "RunGroup",
+        "value": "تشغيل المجموعة"
+    },
+    {
+        "name": "KeyMarker",
+        "value": "KeyMarker"
+    },
+    {
+        "name": "Select",
+        "value": "يختار"
+    },
+    {
+        "name": "GroupsJoiner",
+        "value": "المجموعات"
+    },
+    {
+        "name": "GroupJoin",
+        "value": "انضمام المجموعة"
+    },
+    {
+        "name": "secondsbeforeeveryGroupJoin",
+        "value": "قبل ثوانٍ من كل انضمام إلى المجموعة"
+    },
+    {
+        "name": "StartJoining",
+        "value": "ابدأ الانضمام"
+    },
+    {
+        "name": "GroupLink",
+        "value": "ارتباط المجموعة"
+    },
+    {
+        "name": "PleaseFollowStepnoThree",
+        "value": "يرجى اتباع الخطوة رقم 3"
+    },
+    {
+        "name": "GrabGroupLinks",
+        "value": "انتزاع روابط المجموعة"
+    },
+    {
+        "name": "OpenBrowser",
+        "value": "المتصفح المفتوحة"
+    },
+    {
+        "name": "Clickbellowbuttontoopenbrowser",
+        "value": "انقر فوق الزر أدناه لفتح المتصفح"
+    },
+    {
+        "name": "Navigatetoanywebsitewherelistedgrouplinkstheclickbellowbellowbuton",
+        "value": "انتقل إلى أي موقع ويب ، حيث توجد روابط المجموعة المدرجة ، انقر فوق الزر التالي"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "ابدأ في الاستيلاء"
+    },
+    {
+        "name": "NoGroupLinkfoundincurrentPage",
+        "value": "لم يتم العثور على رابط المجموعة في الصفحة الحالية"
+    },
+    {
+        "name": "GrabChatList",
+        "value": "انتزاع قائمة الدردشة"
+    },
+    {
+        "name": "InitiateWhatsAppScaneQRCodefromyourmobile",
+        "value": "ابدأ WhatsApp"
+    },
+    {
+        "name": "GetGroupMember",
+        "value": "احصل على عضو المجموعة"
+    },
+    {
+        "name": "OpenanyGroupchatClickbuttonbellow",
+        "value": "افتح أي دردشة جماعية"
+    },
+    {
+        "name": "PleaseGotoanygroupchat",
+        "value": "يرجى الذهاب إلى أي دردشة جماعية"
+    },
+    {
+        "name": "fallback",
+        "value": "تراجع"
+    },
+    {
+        "name": "Usefallback",
+        "value": "استخدم احتياطي"
+    },
+    {
+        "name": "If",
+        "value": "إذا..."
+    },
+    {
+        "name": "UserSend",
+        "value": "إرسال المستخدم ..."
+    },
+    {
+        "name": "Condition",
+        "value": "شرط"
+    },
+    {
+        "name": "Which",
+        "value": "أي"
+    },
+    {
+        "name": "ThenReplywith",
+        "value": "ثم ، الرد بـ ..."
+    },
+    {
+        "name": "AddMessage",
+        "value": "اضافة رسالة"
+    },
+    {
+        "name": "Message",
+        "value": "رسالة"
+    },
+    {
+        "name": "Cancel",
+        "value": "يلغي"
+    },
+    {
+        "name": "Save",
+        "value": "يحفظ"
+    },
+    {
+        "name": "Confirm",
+        "value": "يتأكد"
+    },
+    {
+        "name": "AreyousuretodeletethisRule",
+        "value": "هل أنت متأكد من حذف هذه القاعدة"
+    },
+    {
+        "name": "ReplyMessage",
+        "value": "رسالة الرد"
+    },
+    {
+        "name": "TypeYourMessagehere",
+        "value": "اكتب رسالتك هنا"
+    },
+    {
+        "name": "Files",
+        "value": "الملفات"
+    },
+    {
+        "name": "Add",
+        "value": "يضيف"
+    },
+    {
+        "name": "GroupNames",
+        "value": "أسماء المجموعات"
+    },
+    {
+        "name": "PleaseCheckMobileNumberyouhaveadded",
+        "value": "يرجى التحقق من رقم الهاتف المحمول الذي قمت بإضافته"
+    },
+    {
+        "name": "ShouldNotbeempty",
+        "value": "لا يجب أن تكون فارغة"
+    },
+    {
+        "name": "ContactNumberShouldNotbeEmpty",
+        "value": "يجب ألا يكون رقم الاتصال فارغًا"
+    },
+    {
+        "name": "MessageShouldNotbeEmpty",
+        "value": "يجب ألا تكون الرسالة فارغة"
+    },
+    {
+        "name": "delayAfterMessagesShouldNotbeEmpty",
+        "value": "التأخير بعد الرسائل يجب ألا تكون فارغة"
+    },
+    {
+        "name": "delayAfterMessagesFromShouldNotbeEmpty",
+        "value": "يجب ألا يكون التأخير بعد الرسائل من فارغًا"
+    },
+    {
+        "name": "delayAfterMessagesTOShouldNotbeEmpty",
+        "value": "يجب ألا يكون التأخير بعد الرسائل فارغة"
+    },
+    {
+        "name": "delayAfterEveryMessageFromShouldNotbeEmpty",
+        "value": "يجب ألا يكون التأخير بعد كل رسالة من فارغة"
+    },
+    {
+        "name": "delayAfterEveryMessageToShouldNotbeEmpty",
+        "value": "يجب ألا يكون التأخير بعد كل رسالة إلى فارغة"
+    },
+    {
+        "name": "ShouldGraterthenoero",
+        "value": "يجب أن تبشر ثم 0"
+    },
+    {
+        "name": "delayAfterMessages_ShouldGraterthenoero",
+        "value": "التأخير بعد الرسائل يجب أن يبشر ثم 0"
+    },
+    {
+        "name": "delayAfterMessagesFrom_ShouldGraterthenoero",
+        "value": "تأخير بعد الرسائل من يجب المبشرة ثم 0"
+    },
+    {
+        "name": "delayAfterMessagesTo_ShouldGraterthenoero",
+        "value": "التأخير بعد الرسائل يجب أن تبشر ثم 0"
+    },
+    {
+        "name": "delayAfterEveryMessageFrom_ShouldGraterthenoero",
+        "value": "تأخير بعد كل رسالة من يجب أن يبشر ثم 0"
+    },
+    {
+        "name": "delayAfterEveryMessageTo_ShouldGraterthenoero",
+        "value": "تأخير بعد كل رسالة يجب أن تبشر ثم 0"
+    },
+    {
+        "name": "thetoamountismustbegraterthenstartingamount",
+        "value": "يجب أن تكون كمية \"إلى\" مبشرة ثم كمية البداية"
+    },
+    {
+        "name": "UsermessageMustEmptyincaseoffallback",
+        "value": "يجب أن تكون رسالة المستخدم فارغة في حالة الرجوع"
+    },
+    {
+        "name": "PleaseAddatleastoneMessage",
+        "value": "الرجاء إضافة رسالة واحدة على الأقل"
+    },
+    {
+        "name": "PleaseEnterAmessage",
+        "value": "من فضلك أدخل رسالة"
+    },
+    {
+        "name": "PleaseaddatleastoneGroupinlist",
+        "value": "الرجاء إضافة مجموعة واحدة على الأقل في القائمة"
+    },
+    {
+        "name": "PleaseaddatleastoneContactinlist",
+        "value": "الرجاء إضافة جهة اتصال واحدة على الأقل في القائمة"
+    },
+    {
+        "name": "ClickbellowButton",
+        "value": "1) انقر فوق الزر أدناه"
+    },
+    {
+        "name": "ScanQRCode",
+        "value": "2) امسح رمز الاستجابة السريعة"
+    },
+    {
+        "name": "WaitfortheExcel",
+        "value": "3) انتظر ملف Excel"
+    },
+    {
+        "name": "Now",
+        "value": "حاليا"
+    },
+    {
+        "name": "GrabNow",
+        "value": "انتزاع الآن"
+    },
+    {
+        "name": "GrabGroupMembers",
+        "value": "انتزاع أعضاء المجموعة"
+    },
+    {
+        "name": "ClickbellowButtonScanQRCode",
+        "value": "1) انقر فوق الزر أدناه لمسح رمز الاستجابة السريعة"
+    },
+    {
+        "name": "OpenAnyGroup",
+        "value": "2) افتح أي مجموعة"
+    },
+    {
+        "name": "GrabWhatsAppGroupLinksfromwebpage",
+        "value": "احصل على روابط مجموعة WhatsApp من صفحة الويب"
+    },
+    {
+        "name": "OpenAnywebpagewheregivengrouplinks",
+        "value": "2) افتح أي صفحة ويب تحتوي على روابط مجموعة معينة"
+    },
+    {
+        "name": "ThenClickonSTARTButton",
+        "value": "3) ثم اضغط على زر START"
+    },
+    {
+        "name": "AutoGroupJoiner",
+        "value": "السيارات النجار المجموعة"
+    },
+    {
+        "name": "AddUploadGroupLinks",
+        "value": "1) إضافة / تحميل روابط المجموعة"
+    },
+    {
+        "name": "ScanWAQRCode",
+        "value": "2) مسح WA QR Code"
+    },
+    {
+        "name": "StartNow",
+        "value": "ابدأ الآن"
+    },
+    {
+        "name": "WhatsAppAutoResponderBot",
+        "value": "WhatsApp Auto Responder Bot"
+    },
+    {
+        "name": "SetRules",
+        "value": "1) مجموعة القواعد"
+    },
+    {
+        "name": "AddReplyMessages",
+        "value": "2) إضافة رسائل الرد"
+    },
+    {
+        "name": "GeneralSettings",
+        "value": "الاعدادات العامة"
+    },
+    {
+        "name": "ChromeProfilePath",
+        "value": "مسار ملف تعريف Chrome"
+    },
+    {
+        "name": "InputPathisnotCorrectfolderpath",
+        "value": "مسار الإدخال ليس مسار المجلد الصحيح"
+    },
+    {
+        "name": "SettingsSavedSuccessfully",
+        "value": "تم حفظ الإعدادات بنجاح"
+    },
+    {
+        "name": "MessageSendingType",
+        "value": "نوع إرسال الرسالة"
+    },
+    {
+        "name": "CopyPaste",
+        "value": "نسخ ولصق"
+    },
+    {
+        "name": "Typeamessage",
+        "value": "اكتب رسالة"
+    },
+    {
+        "name": "Activate",
+        "value": "تفعيل"
+    },
+    {
+        "name": "ActivateAppName",
+        "value": "تفعيل WaSender"
+    },
+    {
+        "name": "YourActivationCodeis",
+        "value": "رمز التفعيل الخاص بك هو ..."
+    },
+    {
+        "name": "ProvideYourActivationKeyHere",
+        "value": "أدخل مفتاح التنشيط الخاص بك هنا ..."
+    },
+    {
+        "name": "ActivateNow",
+        "value": "نشط الآن"
+    },
+    {
+        "name": "Exit",
+        "value": "مخرج"
+    },
+    {
+        "name": "ActivationSuccessfull",
+        "value": "التفعيل ناجح"
+    },
+    {
+        "name": "InvalidActivationKey",
+        "value": "مفتاح التنشيط غير صالح"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "يبدأ"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "يبدأ"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "يبدأ"
+    },
+    {
+        "name": "LanguageIsSet",
+        "value": "تم تعيين اللغة.  يرجى إعادة تشغيل البرنامج"
+    },
+    {
+        "name": "Name",
+        "value": "اسم"
+    },
+    {
+        "name": "WhatsAppNumberFilter",
+        "value": "مرشح رقم WhatsApp"
+    },
+    {
+        "name": "AddUploadNumbers",
+        "value": "1) إضافة / تحميل الأرقام"
+    },
+    {
+        "name": "NumberCheck",
+        "value": "التحقق من الرقم"
+    },
+    {
+        "name": "secondsbeforeeveryNumberCheck",
+        "value": "ثواني قبل كل فحص رقم"
+    },
+    {
+        "name": "StartChecking",
+        "value": "ابدأ الفحص"
+    },
+    {
+        "name": "ContactListGrabber",
+        "value": "قائمة جهات الاتصال المنتزع"
+    }
+    ,
+    {
+        "name": "HitGrabNowButton",
+        "value": "2) اضغط على زر الاستيلاء الآن"
+    }
+	,
+    {
+        "name": "GrabActiveGroupMembers",
+        "value": "انتزاع أعضاء المجموعة النشطين"
+    }
+    ,
+    {
+        "name": "TotalFound ",
+        "value": "إجمالي ما تم العثور عليه"
+    },
+    {
+        "name": "Export",
+        "value": "يصدّر"
+    },
+    {
+        "name": "Nothingtoexport",
+        "value": "لا شيء للتصدير"
+    }
+	
+	
+	,
+    {
+        "name": "GoogleMapDataEExtractor",
+        "value": "مستخرج البيانات خرائط جوجل "
+    }
+	,
+    {
+        "name": "Usethatwindowtosearchforbusinessesandwhensearchresultsareshown",
+        "value": " انقر فوق الزر Start Grabbing لبدء الزاحف. \n  استخدم هذه النافذة للبحث عن الشركات وعند ظهور نتائج البحث "
+    },
+    {
+        "name": "PleaseSearchsomething",
+        "value": "الرجاء البحث عن شيء"
+    },
+    {
+        "name": "ImportInWaSender",
+        "value": "استيراد الأرقام"
+    },
+    {
+        "name": "EnterCountryCode",
+        "value": "أدخل رمز الدولة"
+    },
+    {
+        "name": "SearchYourQUeryonGMap",
+        "value": "ابحث في استفسارك على خريطة G"
+    },
+    {
+        "name": "HitStart",
+        "value": "ضرب ابدأ"
+    },
+    {
+        "name": "Count",
+        "value": "عدد"
+    },
+    {
+        "name": "ReviewCount",
+        "value": "مراجعة العد"
+    },
+    {
+        "name": "Catagory",
+        "value": "فئة"
+    },
+    {
+        "name": "MobileNumber",
+        "value": "رقم الهاتف المحمول"
+    }
+	,
+    {
+        "name": "Address",
+        "value": "تبوك"
+    },
+    {
+        "name": "Website",
+        "value": "موقع الكتروني"
+    },
+    {
+        "name": "PlusCode",
+        "value": "PlusCode"
+    }
+	,
+    {
+        "name": "AddCountryCode",
+        "value": "أضف رمز الدولة"
+    },
+    {
+        "name": "One",
+        "value": "1) "
+    },
+	{
+        "name": "Two",
+        "value": "2) "
+    },
+	{
+        "name": "Three",
+        "value": "3) "
+    }
+]

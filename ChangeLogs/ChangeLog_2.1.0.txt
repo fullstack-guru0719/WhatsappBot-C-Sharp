@@ -1,0 +1,4 @@
+Change Log - 2.1.0 (09 Apr 2022)
+----------------------------------
+* Group Member grabber not working in some case - Issue resolved
+* Bot not working in some case - Issue resolved

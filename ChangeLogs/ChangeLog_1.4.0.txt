@@ -1,0 +1,4 @@
+Change Log - 1.4.0 (22 Feb 2022)
+----------------------------------
+* Bug Fixes Language Issue fixed
+* Bug Fixes Single Sender issue fixed

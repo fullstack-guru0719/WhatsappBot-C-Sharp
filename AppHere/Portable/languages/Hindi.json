@@ -1,0 +1,810 @@
+[
+    {
+        "name": "AppName",
+        "value": "Wa Sender 1.0"
+    },
+    {
+        "name": "Column1",
+        "value": "कॉलम 1"
+    },
+    {
+        "name": "Number",
+        "value": "संख्या"
+    },
+    {
+        "name": "Column2",
+        "value": "कॉलम 2"
+    },
+    {
+        "name": "DownloadSample",
+        "value": "नमूना एक्सेल डाउनलोड करें"
+    },
+    {
+        "name": "UploadSampleExcel",
+        "value": "एक्सेल अपलोड करें"
+    },
+    {
+        "name": "ContectSender",
+        "value": "संपर्क प्रेषक"
+    },
+    {
+        "name": "GroupSender",
+        "value": "समूह प्रेषक"
+    },
+    {
+        "name": "Tools",
+        "value": "उपकरण"
+    },
+    {
+        "name": "Filedownloadedsuccessfully",
+        "value": "फ़ाइल सफलतापूर्वक डाउनलोड हो गई !"
+    },
+    {
+        "name": "WABulkSender",
+        "value": "WA बल्क सेंडर"
+    },
+    {
+        "name": "SelectExcel",
+        "value": "एक्सेल का चयन करें"
+    },
+    {
+        "name": "PleaseselectExcelfilesformatonly",
+        "value": "कृपया केवल एक्सेल फाइल्स ( .xls ) फॉर्मेट का चयन करें"
+    },
+    {
+        "name": "AddNew",
+        "value": "नया जोड़ो"
+    },
+    {
+        "name": "KeyMarkers",
+        "value": "Key Markers"
+    },
+    {
+        "name": "AddKeyMarker",
+        "value": "जोड़ें KeyMarker"
+    },
+    {
+        "name": "SaveNClose",
+        "value": "सहेजें और बंद करें"
+    },
+    {
+        "name": "KeyMarkerFormatinIncorrect",
+        "value": "Key Marker प्रारूप गलत है"
+    },
+    {
+        "name": "OK",
+        "value": "OK"
+    },
+    {
+        "name": "SelectedKeyMarkeralreadyExist",
+        "value": "चयनित KeyMarker पहले से मौजूद है"
+    },
+    {
+        "name": "Delete",
+        "value": "हटाएं"
+    },
+    {
+        "name": "WrongKey",
+        "value": "KeyMarker '{{ KEY :' के साथ शुरू होता है  "
+    },
+    {
+        "name": "Target",
+        "value": "लक्ष्य"
+    },
+    {
+        "name": "Messages",
+        "value": "संदेशों"
+    },
+    {
+        "name": "MessageOne",
+        "value": "संदेश 1"
+    },
+    {
+        "name": "MessageTwo",
+        "value": "संदेश 2"
+    },
+    {
+        "name": "MessageThree",
+        "value": "संदेश 3"
+    },
+    {
+        "name": "MessageFour",
+        "value": "संदेश 4"
+    },
+    {
+        "name": "MessageFive",
+        "value": "संदेश 5"
+    },
+    {
+        "name": "Attachments",
+        "value": "संलग्नक"
+    },
+    {
+        "name": "Addfile",
+        "value": "फाइल जोडें"
+    },
+    {
+        "name": "Yourfirstmessage",
+        "value": "* आपका पहला संदेश"
+    },
+    {
+        "name": "YourSecondmessage",
+        "value": "* आपका दूसरा संदेश"
+    },
+    {
+        "name": "YourThirdmessage",
+        "value": "* आपका तीसरा संदेश"
+    },
+    {
+        "name": "YourFourthmessage",
+        "value": "* आपका चौथा संदेश"
+    },
+    {
+        "name": "YourFifthmessage",
+        "value": "* आपका पांचवां संदेश"
+    },
+    {
+        "name": "DelaySettings",
+        "value": "विलंब सेटिंग्स"
+    },
+    {
+        "name": "Wait",
+        "value": "रुको"
+    },
+    {
+        "name": "secondsafterevery",
+        "value": "हर सेकंड के बाद"
+    },
+    {
+        "name": "to",
+        "value": "से"
+    },
+    {
+        "name": "Clear",
+        "value": "साफ़"
+    },
+    {
+        "name": "StartCampaign",
+        "value": "अभियान शुरू करें"
+    },
+    {
+        "name": "secondsbeforeeverymessage",
+        "value": "हर संदेश से पहले सेकंड"
+    },
+    {
+        "name": "AddKeyMarkers",
+        "value": "जोड़ें KeyMarkers"
+    },
+    {
+        "name": "RandomNumber",
+        "value": "Random संख्या"
+    },
+    {
+        "name": "PleaseEnterCampaignName",
+        "value": "कृपया अभियान का नाम दर्ज करें"
+    },
+    {
+        "name": "CampaignName",
+        "value": "अभियान का नाम"
+    },
+    {
+        "name": "UntitledGroupCampaign",
+        "value": "शीर्षकहीन समूह अभियान"
+    },
+    {
+        "name": "UntitledCampaign",
+        "value": "शीर्षक रहित अभियान"
+    },
+    {
+        "name": "RowNo",
+        "value": "पंक्ति संख्या"
+    },
+    {
+        "name": "Errors",
+        "value": "त्रुटियाँ"
+    },
+    {
+        "name": "WhatsAppBot",
+        "value": "WhatsApp Bot"
+    },
+    {
+        "name": "Rules",
+        "value": "नियमों"
+    },
+    {
+        "name": "AddRule",
+        "value": "नियम जोड़ें"
+    },
+    {
+        "name": "Log",
+        "value": "लॉग"
+    },
+    {
+        "name": "Status",
+        "value": "स्थिति"
+    },
+    {
+        "name": "Start",
+        "value": "शुरू"
+    },
+    {
+        "name": "Stop",
+        "value": "विराम"
+    },
+    {
+        "name": "IsActive",
+        "value": "सक्रिय है"
+    },
+    {
+        "name": "UserInput",
+        "value": "उपयोगकर्ता का निवेश"
+    },
+    {
+        "name": "Type",
+        "value": "प्रकार"
+    },
+    {
+        "name": "Match",
+        "value": "मिलान"
+    },
+    {
+        "name": "ReplySend",
+        "value": "उत्तर भेजा गया"
+    },
+    {
+        "name": "NotMatch",
+        "value": "मेल नहीं करता "
+    },
+    {
+        "name": "Fallback",
+        "value": "Fallback"
+    },
+    {
+        "name": "PleaseaddRules",
+        "value": "कृपया नियम जोड़ें"
+    },
+    {
+        "name": "Run",
+        "value": "शुरु"
+    },
+    {
+        "name": "InitiateWhatsAppScaneQRCodefromyourrmobile",
+        "value": "अपने मोबाइल से व्हाट्सएप और स्कैन क्यूआर कोड शुरू करें"
+    },
+    {
+        "name": "ClicktoInitiate",
+        "value": "आरंभ करने के लिए क्लिक करें"
+    },
+    {
+        "name": "ChatName",
+        "value": "चैट नाम"
+    },
+    {
+        "name": "ImportentNotes",
+        "value": "महत्वपूर्ण लेख"
+    },
+    {
+        "name": "Keepapplicationopenwhilesendingmessagesanduntilallmessagesaresentfromyourmobile",
+        "value": "1) संदेश भेजते समय और जब तक आपके मोबाइल से सभी संदेश नहीं भेजे जाते, एप्लिकेशन को खुला रखें"
+    },
+    {
+        "name": "ClearWhatsAppchathistoryafter5001000150020000messagesasperyourphoneconfiguration",
+        "value": "2) अपने फ़ोन कॉन्फ़िगरेशन के अनुसार 500/1000/1500/20000 संदेशों के बाद व्हाट्सएप चैट इतिहास साफ़ करें"
+    },
+    {
+        "name": "WaSendertendstosubmitmessagestoyourphoneisnotresponsiblefordeliveryofthemessage",
+        "value": "3) WaSender आपके फ़ोन पर संदेश सबमिट करता है, संदेश के वितरण के लिए ज़िम्मेदार नहीं है"
+    },
+    {
+        "name": "Completed",
+        "value": "Completed"
+    },
+    {
+        "name": "PleasefollowStepNo1FirstInitialiseWhatsapp",
+        "value": "कृपया चरण संख्या 1 का पालन करें। सबसे पहले, व्हाट्सएप शुरू करें"
+    },
+    {
+        "name": "Processisalreadyrunning",
+        "value": "प्रक्रिया पहले से चल रही है"
+    },
+    {
+        "name": "RunGroup",
+        "value": "समूह चलाएँ"
+    },
+    {
+        "name": "KeyMarker",
+        "value": "KeyMarker"
+    },
+    {
+        "name": "Select",
+        "value": "चुनें"
+    },
+    {
+        "name": "GroupsJoiner",
+        "value": "ग्रुप जॉइनर"
+    },
+    {
+        "name": "GroupJoin",
+        "value": "समूह में शामिल हों"
+    },
+    {
+        "name": "secondsbeforeeveryGroupJoin",
+        "value": " प्रत्येक समूह में शामिल होने से पहले सेकंड"
+    },
+    {
+        "name": "StartJoining",
+        "value": "जुड़ना शुरू करें"
+    },
+    {
+        "name": "GroupLink",
+        "value": "समूह लिंक"
+    },
+    {
+        "name": "PleaseFollowStepnoThree",
+        "value": "कृपया चरण संख्या 3 का पालन करें"
+    },
+    {
+        "name": "GrabGroupLinks",
+        "value": "समूह कड़ियाँ हथियाओ "
+    },
+    {
+        "name": "OpenBrowser",
+        "value": "ब्राउज़र शुरू करें"
+    },
+    {
+        "name": "Clickbellowbuttontoopenbrowser",
+        "value": "ब्राउजर खोलने के लिए नीचे के बटन पर क्लिक करें"
+    },
+    {
+        "name": "Navigatetoanywebsitewherelistedgrouplinkstheclickbellowbellowbuton",
+        "value": "किसी भी वेबसाइट पर नेविगेट करें, जहां सूचीबद्ध समूह लिंक हैं, नीचे दिए गए बटन पर क्लिक करें"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "हथियाना शुरू करें"
+    },
+    {
+        "name": "NoGroupLinkfoundincurrentPage",
+        "value": "वर्तमान पृष्ठ में कोई समूह लिंक नहीं मिला"
+    },
+    {
+        "name": "GrabChatList",
+        "value": "चैट सूची पकड़ो"
+    },
+    {
+        "name": "InitiateWhatsAppScaneQRCodefromyourmobile",
+        "value": "अपने मोबाइल से व्हाट्सएप और स्कैन क्यूआर कोड शुरू करें"
+    },
+    {
+        "name": "GetGroupMember",
+        "value": "समूह सदस्य प्राप्त करें"
+    },
+    {
+        "name": "OpenanyGroupchatClickbuttonbellow",
+        "value": "कोई भी समूह चैट खोलें && नीचे दिए गए बटन पर क्लिक करें"
+    },
+    {
+        "name": "PleaseGotoanygroupchat",
+        "value": "कृपया किसी भी समूह चैट पर जाएं"
+    },
+    {
+        "name": "fallback",
+        "value": "fallback"
+    },
+    {
+        "name": "Usefallback",
+        "value": "fallback उपयोग"
+    },
+    {
+        "name": "If",
+        "value": "अगर..."
+    },
+    {
+        "name": "UserSend",
+        "value": "उपयोगकर्ता भेजें..."
+    },
+    {
+        "name": "Condition",
+        "value": "शर्त"
+    },
+    {
+        "name": "Which",
+        "value": "जो"
+    },
+    {
+        "name": "ThenReplywith",
+        "value": "फिर, इसके साथ उत्तर दें..."
+    },
+    {
+        "name": "AddMessage",
+        "value": "संदेश डालो"
+    },
+    {
+        "name": "Message",
+        "value": "संदेश"
+    },
+    {
+        "name": "Cancel",
+        "value": "रद्द करें"
+    },
+    {
+        "name": "Save",
+        "value": "सहेजें"
+    },
+    {
+        "name": "Confirm",
+        "value": "पुष्टि करिए"
+    },
+    {
+        "name": "AreyousuretodeletethisRule",
+        "value": "क्या आप वाकई इस नियम को हटाना चाहते हैं"
+    },
+    {
+        "name": "ReplyMessage",
+        "value": "प्रतिक्रिया संदेश"
+    },
+    {
+        "name": "TypeYourMessagehere",
+        "value": "अपना संदेश यहां टंकित करें"
+    },
+    {
+        "name": "Files",
+        "value": "फ़ाइलें"
+    },
+    {
+        "name": "Add",
+        "value": "जोड़ें"
+    },
+    {
+        "name": "GroupNames",
+        "value": "समूह के नाम"
+    },
+    {
+        "name": "PleaseCheckMobileNumberyouhaveadded",
+        "value": "कृपया अपने द्वारा जोड़े गए मोबाइल नंबर की जांच करें"
+    },
+    {
+        "name": "ShouldNotbeempty",
+        "value": "खाली नहीं होना चाहिए"
+    },
+    {
+        "name": "ContactNumberShouldNotbeEmpty",
+        "value": "संपर्क नंबर खाली नहीं होना चाहिए"
+    },
+    {
+        "name": "MessageShouldNotbeEmpty",
+        "value": "संदेश खाली नहीं होना चाहिए"
+    },
+    {
+        "name": "delayAfterMessagesShouldNotbeEmpty",
+        "value": "Delay After Messages संदेश खाली नहीं होना चाहिए"
+    },
+    {
+        "name": "delayAfterMessagesFromShouldNotbeEmpty",
+        "value": "Delay After Messages From  संदेश खाली नहीं होना चाहिए"
+    },
+    {
+        "name": "delayAfterMessagesTOShouldNotbeEmpty",
+        "value": "Delay After Messages To संदेश खाली नहीं होना चाहिए"
+    },
+    {
+        "name": "delayAfterEveryMessageFromShouldNotbeEmpty",
+        "value": "Delay After Every Message From संदेश खाली नहीं होना चाहिए"
+    },
+    {
+        "name": "delayAfterEveryMessageToShouldNotbeEmpty",
+        "value": "Delay AfterEvery Message To संदेश खाली नहीं होना चाहिए"
+    },
+    {
+        "name": "ShouldGraterthenoero",
+        "value": "Should Grater then 0"
+    },
+    {
+        "name": "delayAfterMessages_ShouldGraterthenoero",
+        "value": "Delay After Messages 0 . से बड़ा होना चाहिए"
+    },
+    {
+        "name": "delayAfterMessagesFrom_ShouldGraterthenoero",
+        "value": "Delay After Messages From  0 से बड़ा होना चाहिए"
+    },
+    {
+        "name": "delayAfterMessagesTo_ShouldGraterthenoero",
+        "value": "Delay After Messages To 0 से बड़ा होना चाहिए"
+    },
+    {
+        "name": "delayAfterEveryMessageFrom_ShouldGraterthenoero",
+        "value": "Delay After Every Message From 0 से बड़ा होना चाहिए"
+    },
+    {
+        "name": "delayAfterEveryMessageTo_ShouldGraterthenoero",
+        "value": "Delay After Every Message To 0 से बड़ा होना चाहिए"
+    },
+    {
+        "name": "thetoamountismustbegraterthenstartingamount",
+        "value": "'से' राशि पहले की तुलना में ग्रेटर होनी चाहिए"
+    },
+    {
+        "name": "UsermessageMustEmptyincaseoffallback",
+        "value": "फ़ॉलबैक के मामले में उपयोगकर्ता संदेश खाली होना चाहिए"
+    },
+    {
+        "name": "PleaseAddatleastoneMessage",
+        "value": "कृपया कम से कम एक संदेश जोड़ें"
+    },
+    {
+        "name": "PleaseEnterAmessage",
+        "value": "कृपया एक संदेश दर्ज करें "
+    },
+    {
+        "name": "PleaseaddatleastoneGroupinlist",
+        "value": "कृपया सूची में कम से कम एक समूह जोड़ें"
+    },
+    {
+        "name": "PleaseaddatleastoneContactinlist",
+        "value": "कृपया सूची में कम से कम एक संपर्क जोड़ें"
+    },
+    {
+        "name": "ClickbellowButton",
+        "value": "1) नीचे के बटन पर क्लिक करें"
+    },
+    {
+        "name": "ScanQRCode",
+        "value": "2) स्कैन क्यू आर कोड"
+    },
+    {
+        "name": "WaitfortheExcel",
+        "value": "3) एक्सेल की प्रतीक्षा करें"
+    },
+    {
+        "name": "Now",
+        "value": "अभी"
+    },
+    {
+        "name": "GrabNow",
+        "value": "अभी प्राप्त करो "
+    },
+    {
+        "name": "GrabGroupMembers",
+        "value": "समूह के सदस्यों को प्राप्त करो"
+    },
+    {
+        "name": "ClickbellowButtonScanQRCode",
+        "value": "1) नीचे दिए गए बटन पर क्लिक करें क्यूआर कोड स्कैन करें"
+    },
+    {
+        "name": "OpenAnyGroup",
+        "value": "2) कोई भी समूह खोलें"
+    },
+    {
+        "name": "GrabWhatsAppGroupLinksfromwebpage",
+        "value": "वेब पेज से व्हाट्सएप ग्रुप लिंक प्राप्त करें"
+    },
+    {
+        "name": "OpenAnywebpagewheregivengrouplinks",
+        "value": "2) कोई भी वेब पेज खोलें जहां ग्रुप लिंक दिए गए हों"
+    },
+    {
+        "name": "ThenClickonSTARTButton",
+        "value": "3) फिर START बटन पर क्लिक करें"
+    },
+    {
+        "name": "AutoGroupJoiner",
+        "value": "ऑटो ग्रुप जॉइनर"
+    },
+    {
+        "name": "AddUploadGroupLinks",
+        "value": "1) समूह लिंक जोड़ें / अपलोड करें"
+    },
+    {
+        "name": "ScanWAQRCode",
+        "value": "2) स्कैन क्यू आर कोड"
+    },
+    {
+        "name": "StartNow",
+        "value": "अभी शुरू करो"
+    },
+    {
+        "name": "WhatsAppAutoResponderBot",
+        "value": "व्हाट्सएप ऑटो रिस्पॉन्डर बॉट"
+    },
+    {
+        "name": "SetRules",
+        "value": "1) नियम तय करें "
+    },
+    {
+        "name": "AddReplyMessages",
+        "value": "2) उत्तर संदेश जोड़ें"
+    },
+    {
+        "name": "GeneralSettings",
+        "value": "सामान्य सेटिंग्स"
+    },
+    {
+        "name": "ChromeProfilePath",
+        "value": "क्रोम प्रोफ़ाइल पथ"
+    },
+    {
+        "name": "InputPathisnotCorrectfolderpath",
+        "value": "इनपुट पथ सही फ़ोल्डर पथ नहीं है"
+    },
+    {
+        "name": "SettingsSavedSuccessfully",
+        "value": "सेटिंग्स सफलतापूर्वक सहेजी गईं"
+    },
+    {
+        "name": "MessageSendingType",
+        "value": "संदेश भेजने का प्रकार"
+    },
+    {
+        "name": "CopyPaste",
+        "value": "कॉपी पेस्ट"
+    },
+    {
+        "name": "Typeamessage",
+        "value": "एक संदेश लिखें"
+    },
+    {
+        "name": "Activate",
+        "value": "सक्रिय "
+    },
+    {
+        "name": "ActivateAppName",
+        "value": "सक्रिय WaSender"
+    },
+    {
+        "name": "YourActivationCodeis",
+        "value": "आपका सक्रियण कोड है ..."
+    },
+    {
+        "name": "ProvideYourActivationKeyHere",
+        "value": "यहां अपनी सक्रियकरण कुंजी प्रदान करें..."
+    },
+    {
+        "name": "ActivateNow",
+        "value": "अब सक्रिय करें"
+    },
+    {
+        "name": "Exit",
+        "value": "बाहर जाएं"
+    },
+    {
+        "name": "ActivationSuccessfull",
+        "value": "सक्रियण सफल"
+    },
+    {
+        "name": "InvalidActivationKey",
+        "value": "सक्रियण कुंजी अमान्य "
+    },
+    {
+        "name": "LanguageIsSet",
+        "value": "भाषा सेट है। कृपया सॉफ़्टवेयर को पुनरारंभ करें "
+    },
+    {
+        "name": "Name",
+        "value": "नाम"
+    },
+    {
+        "name": "WhatsAppNumberFilter",
+        "value": "व्हाट्सएप नंबर फिल्टर"
+    },
+    {
+        "name": "AddUploadNumbers",
+        "value": "1) नंबर जोड़ें / अपलोड करें"
+    },
+    {
+        "name": "NumberCheck",
+        "value": "नंबर चेक"
+    },
+    {
+        "name": "secondsbeforeeveryNumberCheck",
+        "value": "हर नंबर की जाँच से पहले सेकंड"
+    },
+    {
+        "name": "StartChecking",
+        "value": "जांचना शुरू करें"
+    },
+    {
+        "name": "ContactListGrabber",
+        "value": "संपर्क सूची ग्रैबर"
+    }
+    ,
+    {
+        "name": "HitGrabNowButton",
+        "value": "2) ग्रैब नाउ बटन दबाएं"
+    },
+    {
+        "name": "GrabActiveGroupMembers",
+        "value": "सक्रिय समूह के सदस्यों को पकड़ो"
+    }
+    ,
+    {
+        "name": "TotalFound ",
+        "value": "कुल मिला"
+    },
+    {
+        "name": "Export",
+        "value": "निर्यात करना"
+    },
+    {
+        "name": "Nothingtoexport",
+        "value": "निर्यात करने के लिए कुछ नहीं"
+    }
+	
+	
+	,
+    {
+        "name": "GoogleMapDataEExtractor",
+        "value": "गूगल मैप डेटा एक्सट्रैक्टर"
+    }
+	,
+    {
+        "name": "Usethatwindowtosearchforbusinessesandwhensearchresultsareshown",
+        "value": "व्यवसायों की खोज के लिए उस विंडो का उपयोग करें और जब खोज परिणाम दिखाए जाएं \n क्रॉलर शुरू करने के लिए स्टार्ट ग्रैबिंग बटन पर क्लिक करें."
+    },
+    {
+        "name": "PleaseSearchsomething",
+        "value": "कृपया कुछ खोजें"
+    },
+    {
+        "name": "ImportInWaSender",
+        "value": "आयात संख्या"
+    },
+    {
+        "name": "EnterCountryCode",
+        "value": "Enter Country Code"
+    },
+    {
+        "name": "SearchYourQUeryonGMap",
+        "value": "अपनी क्वेरी  G MAP पर खोजें"
+    },
+    {
+        "name": "HitStart",
+        "value": "हिट स्टार्ट"
+    },
+    {
+        "name": "Count",
+        "value": "गिनती"
+    },
+    {
+        "name": "ReviewCount",
+        "value": "समीक्षा गणना"
+    },
+    {
+        "name": "Catagory",
+        "value": "श्रेणी"
+    },
+    {
+        "name": "MobileNumber",
+        "value": "मोबाइल नंबर"
+    }
+	,
+    {
+        "name": "Address",
+        "value": "पता"
+    },
+    {
+        "name": "Website",
+        "value": "वेबसाइट"
+    },
+    {
+        "name": "PlusCode",
+        "value": "PlusCode"
+    }
+	,
+    {
+        "name": "AddCountryCode",
+        "value": "देश कोड जोड़ें"
+    },
+    {
+        "name": "One",
+        "value": "1) "
+    },
+	{
+        "name": "Two",
+        "value": "2) "
+    },
+	{
+        "name": "Three",
+        "value": "3) "
+    }
+]

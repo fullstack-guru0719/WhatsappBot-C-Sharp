@@ -1,0 +1,6 @@
+Change Log - 2.2.0 (21 Apr 2022)
+----------------------------------
+* WhatsApp Number filter added
+* WhatsApp Contact List Grabber added
+* Now Able to send Bulk messages to your contacts
+* Bug fixes

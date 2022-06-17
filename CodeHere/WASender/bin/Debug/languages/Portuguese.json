@@ -1,0 +1,810 @@
+[
+    {
+        "name": "AppName",
+        "value": "Wa Sender 1.0"
+    },
+    {
+        "name": "Column1",
+        "value": "Coluna 1"
+    },
+    {
+        "name": "Number",
+        "value": "Número"
+    },
+    {
+        "name": "Column2",
+        "value": "Coluna 2"
+    },
+    {
+        "name": "DownloadSample",
+        "value": "Baixar Amostra de Excel"
+    },
+    {
+        "name": "UploadSampleExcel",
+        "value": "Carregar Excel"
+    },
+    {
+        "name": "ContectSender",
+        "value": "Entre em contato com o remetente"
+    },
+    {
+        "name": "GroupSender",
+        "value": "Remetente do grupo"
+    },
+    {
+        "name": "Tools",
+        "value": "Ferramentas"
+    },
+    {
+        "name": "Filedownloadedsuccessfully",
+        "value": "Arquivo baixado com sucesso !"
+    },
+    {
+        "name": "WABulkSender",
+        "value": "Remetente em massa WA"
+    },
+    {
+        "name": "SelectExcel",
+        "value": "Selecione Excel"
+    },
+    {
+        "name": "PleaseselectExcelfilesformatonly",
+        "value": "Selecione apenas o formato de arquivos Excel ( .xls )"
+    },
+    {
+        "name": "AddNew",
+        "value": "Adicionar novo"
+    },
+    {
+        "name": "KeyMarkers",
+        "value": "KeyMarkers"
+    },
+    {
+        "name": "AddKeyMarker",
+        "value": "Adicionar KeyMarker"
+    },
+    {
+        "name": "SaveNClose",
+        "value": "Salvar fechar"
+    },
+    {
+        "name": "KeyMarkerFormatinIncorrect",
+        "value": "Formato do KeyMarker incorreto"
+    },
+    {
+        "name": "OK",
+        "value": "OK"
+    },
+    {
+        "name": "SelectedKeyMarkeralreadyExist",
+        "value": "O KeyMarker selecionado já existe"
+    },
+    {
+        "name": "Delete",
+        "value": "Excluir"
+    },
+    {
+        "name": "WrongKey",
+        "value": "Marcador de chave começa com {{ KEY : "
+    },
+    {
+        "name": "Target",
+        "value": "Alvo"
+    },
+    {
+        "name": "Messages",
+        "value": "Messages"
+    },
+    {
+        "name": "MessageOne",
+        "value": "Message 1"
+    },
+    {
+        "name": "MessageTwo",
+        "value": "Mensagem 2"
+    },
+    {
+        "name": "MessageThree",
+        "value": "Mensagem 3"
+    },
+    {
+        "name": "MessageFour",
+        "value": "Mensagem 4"
+    },
+    {
+        "name": "MessageFive",
+        "value": "Mensagem 5"
+    },
+    {
+        "name": "Attachments",
+        "value": "Anexos"
+    },
+    {
+        "name": "Addfile",
+        "value": "Adicionar ficheiro"
+    },
+    {
+        "name": "Yourfirstmessage",
+        "value": "* Sua primeira mensagem"
+    },
+    {
+        "name": "YourSecondmessage",
+        "value": "* Sua segunda mensagem"
+    },
+    {
+        "name": "YourThirdmessage",
+        "value": "* Sua terceira mensagem"
+    },
+    {
+        "name": "YourFourthmessage",
+        "value": "* Sua quarta mensagem"
+    },
+    {
+        "name": "YourFifthmessage",
+        "value": "* Sua quinta mensagem"
+    },
+    {
+        "name": "DelaySettings",
+        "value": "Configurações de atraso"
+    },
+    {
+        "name": "Wait",
+        "value": "Esperar"
+    },
+    {
+        "name": "secondsafterevery",
+        "value": "segundos após cada "
+    },
+    {
+        "name": "to",
+        "value": "para"
+    },
+    {
+        "name": "Clear",
+        "value": "Claro"
+    },
+    {
+        "name": "StartCampaign",
+        "value": "Iniciar campanha"
+    },
+    {
+        "name": "secondsbeforeeverymessage",
+        "value": "segundos antes de cada mensagem"
+    },
+    {
+        "name": "AddKeyMarkers",
+        "value": "Adicionar KeyMarkers"
+    },
+    {
+        "name": "RandomNumber",
+        "value": "Número aleatório"
+    },
+    {
+        "name": "PleaseEnterCampaignName",
+        "value": "Insira o nome da campanha"
+    },
+    {
+        "name": "CampaignName",
+        "value": "Nome da campanha"
+    },
+    {
+        "name": "UntitledGroupCampaign",
+        "value": "Campanha de grupo sem título"
+    },
+    {
+        "name": "UntitledCampaign",
+        "value": "Campanha sem título"
+    },
+    {
+        "name": "RowNo",
+        "value": "Nº da linha"
+    },
+    {
+        "name": "Errors",
+        "value": "Erros"
+    },
+    {
+        "name": "WhatsAppBot",
+        "value": "Bot do WhatsApp"
+    },
+    {
+        "name": "Rules",
+        "value": "Regras"
+    },
+    {
+        "name": "AddRule",
+        "value": "Adicionar regra"
+    },
+    {
+        "name": "Log",
+        "value": "Registro"
+    },
+    {
+        "name": "Status",
+        "value": "Status"
+    },
+    {
+        "name": "Start",
+        "value": "Começar"
+    },
+    {
+        "name": "Stop",
+        "value": "Pare"
+    },
+    {
+        "name": "IsActive",
+        "value": "Está ativo"
+    },
+    {
+        "name": "UserInput",
+        "value": "Entrada do usuário"
+    },
+    {
+        "name": "Type",
+        "value": "Tipo"
+    },
+    {
+        "name": "Match",
+        "value": "Partida"
+    },
+    {
+        "name": "ReplySend",
+        "value": "Resposta enviada "
+    },
+    {
+        "name": "NotMatch",
+        "value": "Não combina "
+    },
+    {
+        "name": "Fallback",
+        "value": "Fallback"
+    },
+    {
+        "name": "PleaseaddRules",
+        "value": "Por favor, adicione regras"
+    },
+    {
+        "name": "Run",
+        "value": "Corre"
+    },
+    {
+        "name": "InitiateWhatsAppScaneQRCodefromyourrmobile",
+        "value": "Inicie o WhatsApp && Scane QR Code do seu celular"
+    },
+    {
+        "name": "ClicktoInitiate",
+        "value": "Clique para iniciar"
+    },
+    {
+        "name": "ChatName",
+        "value": "Nome no chat"
+    },
+    {
+        "name": "ImportentNotes",
+        "value": "Anotações importantes"
+    },
+    {
+        "name": "Keepapplicationopenwhilesendingmessagesanduntilallmessagesaresentfromyourmobile",
+        "value": "1) Mantenha o aplicativo aberto ao enviar mensagens e até que todas as mensagens sejam enviadas do seu celular"
+    },
+    {
+        "name": "ClearWhatsAppchathistoryafter5001000150020000messagesasperyourphoneconfiguration",
+        "value": "2) Limpe o histórico de bate-papo do WhatsApp após 500/1000/1500/20000 mensagens de acordo com a configuração do seu telefone"
+    },
+    {
+        "name": "WaSendertendstosubmitmessagestoyourphoneisnotresponsiblefordeliveryofthemessage",
+        "value": "3) WaSender tende a enviar mensagens para o seu telefone, não é responsável pela entrega da mensagem"
+    },
+    {
+        "name": "Completed",
+        "value": "Concluído"
+    },
+    {
+        "name": "PleasefollowStepNo1FirstInitialiseWhatsapp",
+        "value": "Por favor, siga o passo nº 1. Primeiro, inicialize o Whatsapp"
+    },
+    {
+        "name": "Processisalreadyrunning",
+        "value": "O processo já está em execução"
+    },
+    {
+        "name": "RunGroup",
+        "value": "Executar grupo"
+    },
+    {
+        "name": "KeyMarker",
+        "value": "KeyMarker"
+    },
+    {
+        "name": "Select",
+        "value": "Selecionar"
+    },
+    {
+        "name": "GroupsJoiner",
+        "value": "Grupos Joiner"
+    },
+    {
+        "name": "GroupJoin",
+        "value": "Participar do grupo"
+    },
+    {
+        "name": "secondsbeforeeveryGroupJoin",
+        "value": " segundos antes de cada ingresso em grupo"
+    },
+    {
+        "name": "StartJoining",
+        "value": "Comece a participar"
+    },
+    {
+        "name": "GroupLink",
+        "value": "Link do grupo"
+    },
+    {
+        "name": "PleaseFollowStepnoThree",
+        "value": "Por favor, siga o passo nº 3"
+    },
+    {
+        "name": "GrabGroupLinks",
+        "value": "Obter links de grupos"
+    },
+    {
+        "name": "OpenBrowser",
+        "value": "Iniciar navegador"
+    },
+    {
+        "name": "Clickbellowbuttontoopenbrowser",
+        "value": "Clique no botão abaixo para abrir o navegador"
+    },
+    {
+        "name": "Navigatetoanywebsitewherelistedgrouplinkstheclickbellowbellowbuton",
+        "value": "Navegue para qualquer site , onde constam links de grupos, clique no botão abaixo"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "Comece a agarrar"
+    },
+    {
+        "name": "NoGroupLinkfoundincurrentPage",
+        "value": "Nenhum link de grupo encontrado na página atual"
+    },
+    {
+        "name": "GrabChatList",
+        "value": "Pegar lista de bate-papo"
+    },
+    {
+        "name": "InitiateWhatsAppScaneQRCodefromyourmobile",
+        "value": "Inicie o WhatsApp && Scane QR Code do seu celular"
+    },
+    {
+        "name": "GetGroupMember",
+        "value": "Obter membro do grupo"
+    },
+    {
+        "name": "OpenanyGroupchatClickbuttonbellow",
+        "value": "Abra qualquer bate-papo em grupo e clique no botão abaixo"
+    },
+    {
+        "name": "PleaseGotoanygroupchat",
+        "value": "Por favor, vá para qualquer bate-papo em grupo"
+    },
+    {
+        "name": "fallback",
+        "value": "fallback"
+    },
+    {
+        "name": "Usefallback",
+        "value": "Usar fallback"
+    },
+    {
+        "name": "If",
+        "value": "Se..."
+    },
+    {
+        "name": "UserSend",
+        "value": "Envio do usuário..."
+    },
+    {
+        "name": "Condition",
+        "value": "Doença"
+    },
+    {
+        "name": "Which",
+        "value": "Que"
+    },
+    {
+        "name": "ThenReplywith",
+        "value": "Em seguida, responda com..."
+    },
+    {
+        "name": "AddMessage",
+        "value": "Adicionar mensagem"
+    },
+    {
+        "name": "Message",
+        "value": "Mensagem"
+    },
+    {
+        "name": "Cancel",
+        "value": "Cancelar"
+    },
+    {
+        "name": "Save",
+        "value": "Salvar"
+    },
+    {
+        "name": "Confirm",
+        "value": "confirme"
+    },
+    {
+        "name": "AreyousuretodeletethisRule",
+        "value": "Tem certeza de que deseja excluir esta regra"
+    },
+    {
+        "name": "ReplyMessage",
+        "value": "Responder à mensagem"
+    },
+    {
+        "name": "TypeYourMessagehere",
+        "value": "Digite sua mensagem aqui"
+    },
+    {
+        "name": "Files",
+        "value": "arquivos"
+    },
+    {
+        "name": "Add",
+        "value": "Adicionar"
+    },
+    {
+        "name": "GroupNames",
+        "value": "Nomes de grupos"
+    },
+    {
+        "name": "PleaseCheckMobileNumberyouhaveadded",
+        "value": "Por favor, verifique o número de celular que você adicionou"
+    },
+    {
+        "name": "ShouldNotbeempty",
+        "value": "Não deve estar vazio"
+    },
+    {
+        "name": "ContactNumberShouldNotbeEmpty",
+        "value": "O número de contato não deve estar vazio"
+    },
+    {
+        "name": "MessageShouldNotbeEmpty",
+        "value": "A mensagem não deve estar vazia"
+    },
+    {
+        "name": "delayAfterMessagesShouldNotbeEmpty",
+        "value": "Atraso após as mensagens não devem estar vazias"
+    },
+    {
+        "name": "delayAfterMessagesFromShouldNotbeEmpty",
+        "value": "Atraso depois que as mensagens de não devem estar vazias"
+    },
+    {
+        "name": "delayAfterMessagesTOShouldNotbeEmpty",
+        "value": "Atraso após as mensagens não devem estar vazias"
+    },
+    {
+        "name": "delayAfterEveryMessageFromShouldNotbeEmpty",
+        "value": "Atraso após cada mensagem de não deve estar vazio"
+    },
+    {
+        "name": "delayAfterEveryMessageToShouldNotbeEmpty",
+        "value": "Delay AfterEvery Message To Não deve estar vazio"
+    },
+    {
+        "name": "ShouldGraterthenoero",
+        "value": "Deve Ralar então 0"
+    },
+    {
+        "name": "delayAfterMessages_ShouldGraterthenoero",
+        "value": "O atraso após as mensagens deve ser maior que 0"
+    },
+    {
+        "name": "delayAfterMessagesFrom_ShouldGraterthenoero",
+        "value": "Atraso após as mensagens de Devem ralar então 0"
+    },
+    {
+        "name": "delayAfterMessagesTo_ShouldGraterthenoero",
+        "value": "Atraso após as mensagens para deve ralar então 0"
+    },
+    {
+        "name": "delayAfterEveryMessageFrom_ShouldGraterthenoero",
+        "value": "Atraso após cada mensagem de deve ser ralado então 0"
+    },
+    {
+        "name": "delayAfterEveryMessageTo_ShouldGraterthenoero",
+        "value": "Atraso após cada mensagem para deve ser ralado então 0"
+    },
+    {
+        "name": "thetoamountismustbegraterthenstartingamount",
+        "value": "o valor 'para' deve ser maior que o valor inicial"
+    },
+    {
+        "name": "UsermessageMustEmptyincaseoffallback",
+        "value": "A mensagem do usuário deve esvaziar em caso de fallback"
+    },
+    {
+        "name": "PleaseAddatleastoneMessage",
+        "value": "Adicione pelo menos uma mensagem"
+    },
+    {
+        "name": "PleaseEnterAmessage",
+        "value": "Por favor, digite uma mensagem "
+    },
+    {
+        "name": "PleaseaddatleastoneGroupinlist",
+        "value": "Adicione pelo menos um grupo na lista"
+    },
+    {
+        "name": "PleaseaddatleastoneContactinlist",
+        "value": "Adicione pelo menos um contato na lista"
+    },
+    {
+        "name": "ClickbellowButton",
+        "value": "1) Clique no botão abaixo"
+    },
+    {
+        "name": "ScanQRCode",
+        "value": "2) Digitalizar código QR"
+    },
+    {
+        "name": "WaitfortheExcel",
+        "value": "3) Aguarde o Excel"
+    },
+    {
+        "name": "Now",
+        "value": "Agora"
+    },
+    {
+        "name": "GrabNow",
+        "value": "Pegue agora"
+    },
+    {
+        "name": "GrabGroupMembers",
+        "value": "Agarrar membros do grupo"
+    },
+    {
+        "name": "ClickbellowButtonScanQRCode",
+        "value": "1) Clique no botão abaixo Escanear QR Code"
+    },
+    {
+        "name": "OpenAnyGroup",
+        "value": "2) Abra qualquer grupo"
+    },
+    {
+        "name": "GrabWhatsAppGroupLinksfromwebpage",
+        "value": "Pegue links de grupos do WhatsApp na página da web"
+    },
+    {
+        "name": "OpenAnywebpagewheregivengrouplinks",
+        "value": "2) Abra qualquer página da web onde determinados links de grupo"
+    },
+    {
+        "name": "ThenClickonSTARTButton",
+        "value": "3) Em seguida, clique no botão INICIAR"
+    },
+    {
+        "name": "AutoGroupJoiner",
+        "value": "Ingresso de grupo automático"
+    },
+    {
+        "name": "AddUploadGroupLinks",
+        "value": "1) Adicionar/Carregar Links de Grupo"
+    },
+    {
+        "name": "ScanWAQRCode",
+        "value": "2) Digitalizar um código QR"
+    },
+    {
+        "name": "StartNow",
+        "value": "Comece agora"
+    },
+    {
+        "name": "WhatsAppAutoResponderBot",
+        "value": "Bot de resposta automática do WhatsApp"
+    },
+    {
+        "name": "SetRules",
+        "value": "1) Defina as regras"
+    },
+    {
+        "name": "AddReplyMessages",
+        "value": "2) Adicionar mensagens de resposta"
+    },
+    {
+        "name": "GeneralSettings",
+        "value": "Configurações Gerais"
+    },
+    {
+        "name": "ChromeProfilePath",
+        "value": "Caminho do perfil do Chrome"
+    },
+    {
+        "name": "InputPathisnotCorrectfolderpath",
+        "value": "O caminho de entrada não é o caminho da pasta correta"
+    },
+    {
+        "name": "SettingsSavedSuccessfully",
+        "value": "Configurações salvas com sucesso"
+    },
+    {
+        "name": "MessageSendingType",
+        "value": "Tipo de envio de mensagem"
+    },
+    {
+        "name": "CopyPaste",
+        "value": "Copiar colar"
+    },
+    {
+        "name": "Typeamessage",
+        "value": "Digite uma mensagem"
+    },
+    {
+        "name": "Activate",
+        "value": "Ativar "
+    },
+    {
+        "name": "ActivateAppName",
+        "value": "Ativar software"
+    },
+    {
+        "name": "YourActivationCodeis",
+        "value": "Seu código de ativação é ..."
+    },
+    {
+        "name": "ProvideYourActivationKeyHere",
+        "value": "Forneça sua chave de ativação aqui ..."
+    },
+    {
+        "name": "ActivateNow",
+        "value": "Ative agora"
+    },
+    {
+        "name": "Exit",
+        "value": "Saída"
+    },
+    {
+        "name": "ActivationSuccessfull",
+        "value": "Ativação bem-sucedida"
+    },
+    {
+        "name": "InvalidActivationKey",
+        "value": "Chave de ativação inválida"
+    },
+    {
+        "name": "LanguageIsSet",
+        "value": "O idioma está definido. Por favor reinicie o software "
+    },
+    {
+        "name": "Name",
+        "value": "nome"
+    },
+    {
+        "name": "WhatsAppNumberFilter",
+        "value": "Filtro de número do WhatsApp"
+    },
+    {
+        "name": "AddUploadNumbers",
+        "value": "1) Adicionar/Carregar Números"
+    },
+    {
+        "name": "NumberCheck",
+        "value": "Verificação de número"
+    },
+    {
+        "name": "secondsbeforeeveryNumberCheck",
+        "value": "segundos antes de cada verificação numérica"
+    },
+    {
+        "name": "StartChecking",
+        "value": "Iniciar verificação"
+    },
+    {
+        "name": "ContactListGrabber",
+        "value": "Coletor de lista de contatos"
+    }
+    ,
+    {
+        "name": "HitGrabNowButton",
+        "value": "2) Aperte o botão Agarrar agora"
+    },
+    {
+        "name": "GrabActiveGroupMembers",
+        "value": "Agarrar membros ativos do grupo"
+    }
+    ,
+    {
+        "name": "TotalFound ",
+        "value": "Total encontrado"
+    },
+    {
+        "name": "Export",
+        "value": "Exportar"
+    },
+    {
+        "name": "Nothingtoexport",
+        "value": "Nada para exportar"
+    }
+	
+	
+	,
+    {
+        "name": "GoogleMapDataEExtractor",
+        "value": "Extrator de dados do Google Maps"
+    }
+	,
+    {
+        "name": "Usethatwindowtosearchforbusinessesandwhensearchresultsareshown",
+        "value": "Use essa janela para pesquisar empresas e quando os resultados da pesquisa forem exibidos \n clique no botão Iniciar Grabing para iniciar o rastreador."
+    },
+    {
+        "name": "PleaseSearchsomething",
+        "value": "Por favor, pesquise algo"
+    },
+    {
+        "name": "ImportInWaSender",
+        "value": "Importar números"
+    },
+    {
+        "name": "EnterCountryCode",
+        "value": "Digite o código do país"
+    },
+    {
+        "name": "SearchYourQUeryonGMap",
+        "value": "Pesquise sua consulta no G Map"
+    },
+    {
+        "name": "HitStart",
+        "value": "Clique em Iniciar"
+    },
+    {
+        "name": "Count",
+        "value": "Contar"
+    },
+    {
+        "name": "ReviewCount",
+        "value": "Contagem de revisões"
+    },
+    {
+        "name": "Catagory",
+        "value": "Categoria"
+    },
+    {
+        "name": "MobileNumber",
+        "value": "Número de celular"
+    }
+	,
+    {
+        "name": "Address",
+        "value": "Endereço"
+    },
+    {
+        "name": "Website",
+        "value": "Local na rede Internet"
+    },
+    {
+        "name": "PlusCode",
+        "value": "PlusCode"
+    }
+	,
+    {
+        "name": "AddCountryCode",
+        "value": "Adicionar código do país"
+    },
+    {
+        "name": "One",
+        "value": "1) "
+    },
+	{
+        "name": "Two",
+        "value": "2) "
+    },
+	{
+        "name": "Three",
+        "value": "3) "
+    }
+]

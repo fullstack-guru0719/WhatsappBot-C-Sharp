@@ -1,0 +1,5 @@
+Change Log - 2.3.0 (05 May 2022)
+----------------------------------
+* In Some case Sending message to same contact issue fixed
+* Added Spanish and Indonesian language
+* Bug fixes

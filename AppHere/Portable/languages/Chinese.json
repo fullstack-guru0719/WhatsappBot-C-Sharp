@@ -1,0 +1,822 @@
+[
+    {
+        "name": "AppName",
+        "value": "Wa发件人1.0"
+    },
+    {
+        "name": "Column1",
+        "value": "第 1 列"
+    },
+    {
+        "name": "Number",
+        "value": "数字"
+    },
+    {
+        "name": "Column2",
+        "value": "第 2 列"
+    },
+    {
+        "name": "DownloadSample",
+        "value": "下载示例 Excel"
+    },
+    {
+        "name": "UploadSampleExcel",
+        "value": "上传 Excel"
+    },
+    {
+        "name": "ContectSender",
+        "value": "联系发件人"
+    },
+    {
+        "name": "GroupSender",
+        "value": "群组发件人"
+    },
+    {
+        "name": "Tools",
+        "value": "工具"
+    },
+    {
+        "name": "Filedownloadedsuccessfully",
+        "value": "文件下载成功！"
+    },
+    {
+        "name": "WABulkSender",
+        "value": "WA 批量发件人"
+    },
+    {
+        "name": "SelectExcel",
+        "value": "选择 Excel"
+    },
+    {
+        "name": "PleaseselectExcelfilesformatonly",
+        "value": "请仅选择 Excel 文件 ( .xls ) 格式"
+    },
+    {
+        "name": "AddNew",
+        "value": "添新"
+    },
+    {
+        "name": "KeyMarkers",
+        "value": "关键标记"
+    },
+    {
+        "name": "AddKeyMarker",
+        "value": "添加关键标记"
+    },
+    {
+        "name": "SaveNClose",
+        "value": "保存"
+    },
+    {
+        "name": "KeyMarkerFormatinIncorrect",
+        "value": "键标记格式不正确"
+    },
+    {
+        "name": "OK",
+        "value": "好的"
+    },
+    {
+        "name": "SelectedKeyMarkeralreadyExist",
+        "value": "选定的 KeyMarker 已存在"
+    },
+    {
+        "name": "Delete",
+        "value": "删除"
+    },
+    {
+        "name": "WrongKey",
+        "value": "关键标记以 {{ KEY 开头："
+    },
+    {
+        "name": "Target",
+        "value": "目标"
+    },
+    {
+        "name": "Messages",
+        "value": "留言"
+    },
+    {
+        "name": "MessageOne",
+        "value": "消息 1"
+    },
+    {
+        "name": "MessageTwo",
+        "value": "消息 2"
+    },
+    {
+        "name": "MessageThree",
+        "value": "消息 3"
+    },
+    {
+        "name": "MessageFour",
+        "value": "消息 4"
+    },
+    {
+        "name": "MessageFive",
+        "value": "消息 5"
+    },
+    {
+        "name": "Attachments",
+        "value": "附件"
+    },
+    {
+        "name": "Addfile",
+        "value": "添加文件"
+    },
+    {
+        "name": "Yourfirstmessage",
+        "value": "* 你的第一条消息"
+    },
+    {
+        "name": "YourSecondmessage",
+        "value": "* 你的第二条消息"
+    },
+    {
+        "name": "YourThirdmessage",
+        "value": "* 您的第三条信息"
+    },
+    {
+        "name": "YourFourthmessage",
+        "value": "* 你的第四条信息"
+    },
+    {
+        "name": "YourFifthmessage",
+        "value": "* 你的第五条信息"
+    },
+    {
+        "name": "DelaySettings",
+        "value": "延迟设置"
+    },
+    {
+        "name": "Wait",
+        "value": "等待"
+    },
+    {
+        "name": "secondsafterevery",
+        "value": "每秒后"
+    },
+    {
+        "name": "to",
+        "value": "到"
+    },
+    {
+        "name": "Clear",
+        "value": "清除"
+    },
+    {
+        "name": "StartCampaign",
+        "value": "开始活动"
+    },
+    {
+        "name": "secondsbeforeeverymessage",
+        "value": "每条消息前几秒"
+    },
+    {
+        "name": "AddKeyMarkers",
+        "value": "添加关键标记"
+    },
+    {
+        "name": "RandomNumber",
+        "value": "随机数"
+    },
+    {
+        "name": "PleaseEnterCampaignName",
+        "value": "请输入活动名称"
+    },
+    {
+        "name": "CampaignName",
+        "value": "活动名称"
+    },
+    {
+        "name": "UntitledGroupCampaign",
+        "value": "无标题团体活动"
+    },
+    {
+        "name": "UntitledCampaign",
+        "value": "无标题广告系列"
+    },
+    {
+        "name": "RowNo",
+        "value": "行号"
+    },
+    {
+        "name": "Errors",
+        "value": "错误"
+    },
+    {
+        "name": "WhatsAppBot",
+        "value": "WhatsApp 机器人"
+    },
+    {
+        "name": "Rules",
+        "value": "规则"
+    },
+    {
+        "name": "AddRule",
+        "value": "添加规则"
+    },
+    {
+        "name": "Log",
+        "value": "日志"
+    },
+    {
+        "name": "Status",
+        "value": "状态"
+    },
+    {
+        "name": "Start",
+        "value": "开始"
+    },
+    {
+        "name": "Stop",
+        "value": "停止"
+    },
+    {
+        "name": "IsActive",
+        "value": "活跃"
+    },
+    {
+        "name": "UserInput",
+        "value": "用户输入"
+    },
+    {
+        "name": "Type",
+        "value": "类型"
+    },
+    {
+        "name": "Match",
+        "value": "匹配"
+    },
+    {
+        "name": "ReplySend",
+        "value": "回复 发送"
+    },
+    {
+        "name": "NotMatch",
+        "value": "不匹配"
+    },
+    {
+        "name": "Fallback",
+        "value": "倒退"
+    },
+    {
+        "name": "PleaseaddRules",
+        "value": "请添加规则"
+    },
+    {
+        "name": "Run",
+        "value": "跑步"
+    },
+    {
+        "name": "InitiateWhatsAppScaneQRCodefromyourrmobile",
+        "value": "启动 WhatsApp"
+    },
+    {
+        "name": "ClicktoInitiate",
+        "value": "点击发起"
+    },
+    {
+        "name": "ChatName",
+        "value": "聊天名称"
+    },
+    {
+        "name": "ImportentNotes",
+        "value": "重要说明"
+    },
+    {
+        "name": "Keepapplicationopenwhilesendingmessagesanduntilallmessagesaresentfromyourmobile",
+        "value": "1）在发送消息时保持应用程序打开，直到所有消息都从您的手机发送"
+    },
+    {
+        "name": "ClearWhatsAppchathistoryafter5001000150020000messagesasperyourphoneconfiguration",
+        "value": "2) 根据您的手机配置，在收到 500/1000/1500/20000 条消息后清除 WhatsApp 聊天记录"
+    },
+    {
+        "name": "WaSendertendstosubmitmessagestoyourphoneisnotresponsiblefordeliveryofthemessage",
+        "value": "3) WaSender 倾向于向您的手机提交消息，不负责消息的传递"
+    },
+    {
+        "name": "Completed",
+        "value": "完全的"
+    },
+    {
+        "name": "PleasefollowStepNo1FirstInitialiseWhatsapp",
+        "value": "请按照步骤 1。首先，初始化 Whatsapp"
+    },
+    {
+        "name": "Processisalreadyrunning",
+        "value": "进程已经在运行"
+    },
+    {
+        "name": "RunGroup",
+        "value": "跑团"
+    },
+    {
+        "name": "KeyMarker",
+        "value": "关键标记"
+    },
+    {
+        "name": "Select",
+        "value": "选择"
+    },
+    {
+        "name": "GroupsJoiner",
+        "value": "团体加入者"
+    },
+    {
+        "name": "GroupJoin",
+        "value": "群组加入"
+    },
+    {
+        "name": "secondsbeforeeveryGroupJoin",
+        "value": "每个组加入前的秒数"
+    },
+    {
+        "name": "StartJoining",
+        "value": "开始加入"
+    },
+    {
+        "name": "GroupLink",
+        "value": "群组链接"
+    },
+    {
+        "name": "PleaseFollowStepnoThree",
+        "value": "请按照步骤 3"
+    },
+    {
+        "name": "GrabGroupLinks",
+        "value": "获取群组链接"
+    },
+    {
+        "name": "OpenBrowser",
+        "value": "打开浏览器"
+    },
+    {
+        "name": "Clickbellowbuttontoopenbrowser",
+        "value": "点击下方按钮打开浏览器"
+    },
+    {
+        "name": "Navigatetoanywebsitewherelistedgrouplinkstheclickbellowbellowbuton",
+        "value": "导航到列出组链接的任何网站，单击下面的按钮"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "开始抓取"
+    },
+    {
+        "name": "NoGroupLinkfoundincurrentPage",
+        "value": "当前页面中未找到群组链接"
+    },
+    {
+        "name": "GrabChatList",
+        "value": "抓取聊天列表"
+    },
+    {
+        "name": "InitiateWhatsAppScaneQRCodefromyourmobile",
+        "value": "启动 WhatsApp"
+    },
+    {
+        "name": "GetGroupMember",
+        "value": "获取群组成员"
+    },
+    {
+        "name": "OpenanyGroupchatClickbuttonbellow",
+        "value": "打开任何群聊"
+    },
+    {
+        "name": "PleaseGotoanygroupchat",
+        "value": "请去任何群聊"
+    },
+    {
+        "name": "fallback",
+        "value": "倒退"
+    },
+    {
+        "name": "Usefallback",
+        "value": "使用后备"
+    },
+    {
+        "name": "If",
+        "value": "如果..."
+    },
+    {
+        "name": "UserSend",
+        "value": "用户发送..."
+    },
+    {
+        "name": "Condition",
+        "value": "健康）状况"
+    },
+    {
+        "name": "Which",
+        "value": "哪一个"
+    },
+    {
+        "name": "ThenReplywith",
+        "value": "然后，回复..."
+    },
+    {
+        "name": "AddMessage",
+        "value": "添加留言"
+    },
+    {
+        "name": "Message",
+        "value": "信息"
+    },
+    {
+        "name": "Cancel",
+        "value": "取消"
+    },
+    {
+        "name": "Save",
+        "value": "保存"
+    },
+    {
+        "name": "Confirm",
+        "value": "确认"
+    },
+    {
+        "name": "AreyousuretodeletethisRule",
+        "value": "你确定要删除这条规则吗"
+    },
+    {
+        "name": "ReplyMessage",
+        "value": "回复短信"
+    },
+    {
+        "name": "TypeYourMessagehere",
+        "value": "在这里输入你的消息"
+    },
+    {
+        "name": "Files",
+        "value": "文件"
+    },
+    {
+        "name": "Add",
+        "value": "添加"
+    },
+    {
+        "name": "GroupNames",
+        "value": "组名"
+    },
+    {
+        "name": "PleaseCheckMobileNumberyouhaveadded",
+        "value": "请检查您添加的手机号码"
+    },
+    {
+        "name": "ShouldNotbeempty",
+        "value": "不应为空"
+    },
+    {
+        "name": "ContactNumberShouldNotbeEmpty",
+        "value": "联系电话不能为空"
+    },
+    {
+        "name": "MessageShouldNotbeEmpty",
+        "value": "消息不应为空"
+    },
+    {
+        "name": "delayAfterMessagesShouldNotbeEmpty",
+        "value": "消息后延迟不应为空"
+    },
+    {
+        "name": "delayAfterMessagesFromShouldNotbeEmpty",
+        "value": "消息后延迟不应为空"
+    },
+    {
+        "name": "delayAfterMessagesTOShouldNotbeEmpty",
+        "value": "消息后延迟不应为空"
+    },
+    {
+        "name": "delayAfterEveryMessageFromShouldNotbeEmpty",
+        "value": "每条消息后的延迟不应为空"
+    },
+    {
+        "name": "delayAfterEveryMessageToShouldNotbeEmpty",
+        "value": "Delay AfterEvery Message To 不应为空"
+    },
+    {
+        "name": "ShouldGraterthenoero",
+        "value": "应该刨丝器然后 0"
+    },
+    {
+        "name": "delayAfterMessages_ShouldGraterthenoero",
+        "value": "消息后延迟应大于 0"
+    },
+    {
+        "name": "delayAfterMessagesFrom_ShouldGraterthenoero",
+        "value": "消息后延迟应该 Grater 然后 0"
+    },
+    {
+        "name": "delayAfterMessagesTo_ShouldGraterthenoero",
+        "value": "消息后的延迟应该是 0"
+    },
+    {
+        "name": "delayAfterEveryMessageFrom_ShouldGraterthenoero",
+        "value": "每条消息后的延迟应该是 0"
+    },
+    {
+        "name": "delayAfterEveryMessageTo_ShouldGraterthenoero",
+        "value": "每条消息后的延迟都应该是 0"
+    },
+    {
+        "name": "thetoamountismustbegraterthenstartingamount",
+        "value": "'to' 金额必须大于起始金额"
+    },
+    {
+        "name": "UsermessageMustEmptyincaseoffallback",
+        "value": "回退时用户消息必须为空"
+    },
+    {
+        "name": "PleaseAddatleastoneMessage",
+        "value": "请添加至少一条消息"
+    },
+    {
+        "name": "PleaseEnterAmessage",
+        "value": "请输入留言"
+    },
+    {
+        "name": "PleaseaddatleastoneGroupinlist",
+        "value": "请在列表中添加至少一个组"
+    },
+    {
+        "name": "PleaseaddatleastoneContactinlist",
+        "value": "请在列表中添加至少一位联系人"
+    },
+    {
+        "name": "ClickbellowButton",
+        "value": "1) 点击下面的按钮"
+    },
+    {
+        "name": "ScanQRCode",
+        "value": "2) 扫描二维码"
+    },
+    {
+        "name": "WaitfortheExcel",
+        "value": "3) 等待 Excel"
+    },
+    {
+        "name": "Now",
+        "value": "现在"
+    },
+    {
+        "name": "GrabNow",
+        "value": "立即抢购"
+    },
+    {
+        "name": "GrabGroupMembers",
+        "value": "抓住小组成员"
+    },
+    {
+        "name": "ClickbellowButtonScanQRCode",
+        "value": "1) 点击下方按钮扫描二维码"
+    },
+    {
+        "name": "OpenAnyGroup",
+        "value": "2）打开任何组"
+    },
+    {
+        "name": "GrabWhatsAppGroupLinksfromwebpage",
+        "value": "从网页抓取 WhatsApp 群组链接"
+    },
+    {
+        "name": "OpenAnywebpagewheregivengrouplinks",
+        "value": "2）打开给定组链接的任何网页"
+    },
+    {
+        "name": "ThenClickonSTARTButton",
+        "value": "3）然后点击开始按钮"
+    },
+    {
+        "name": "AutoGroupJoiner",
+        "value": "自动组加入者"
+    },
+    {
+        "name": "AddUploadGroupLinks",
+        "value": "1) 添加/上传群组链接"
+    },
+    {
+        "name": "ScanWAQRCode",
+        "value": "2) 扫描西澳二维码"
+    },
+    {
+        "name": "StartNow",
+        "value": "现在开始"
+    },
+    {
+        "name": "WhatsAppAutoResponderBot",
+        "value": "WhatsApp 自动回复机器人"
+    },
+    {
+        "name": "SetRules",
+        "value": "1) 制定规则"
+    },
+    {
+        "name": "AddReplyMessages",
+        "value": "2) 添加回复消息"
+    },
+    {
+        "name": "GeneralSettings",
+        "value": "通用设置"
+    },
+    {
+        "name": "ChromeProfilePath",
+        "value": "Chrome 配置文件路径"
+    },
+    {
+        "name": "InputPathisnotCorrectfolderpath",
+        "value": "输入路径不正确的文件夹路径"
+    },
+    {
+        "name": "SettingsSavedSuccessfully",
+        "value": "设置保存成功"
+    },
+    {
+        "name": "MessageSendingType",
+        "value": "消息发送类型"
+    },
+    {
+        "name": "CopyPaste",
+        "value": "复制粘贴"
+    },
+    {
+        "name": "Typeamessage",
+        "value": "键入消息"
+    },
+    {
+        "name": "Activate",
+        "value": "启用"
+    },
+    {
+        "name": "ActivateAppName",
+        "value": "激活 WaSender"
+    },
+    {
+        "name": "YourActivationCodeis",
+        "value": "您的激活码是..."
+    },
+    {
+        "name": "ProvideYourActivationKeyHere",
+        "value": "在此处提供您的激活密钥..."
+    },
+    {
+        "name": "ActivateNow",
+        "value": "立即激活"
+    },
+    {
+        "name": "Exit",
+        "value": "出口"
+    },
+    {
+        "name": "ActivationSuccessfull",
+        "value": "激活成功"
+    },
+    {
+        "name": "InvalidActivationKey",
+        "value": "无效的激活密钥"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "开始"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "开始"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "开始"
+    },
+    {
+        "name": "LanguageIsSet",
+        "value": "语言已设置。 请重启软件"
+    },
+    {
+        "name": "Name",
+        "value": "姓名"
+    },
+    {
+        "name": "WhatsAppNumberFilter",
+        "value": "WhatsApp 号码过滤器"
+    },
+    {
+        "name": "AddUploadNumbers",
+        "value": "1) 添加/上传号码"
+    },
+    {
+        "name": "NumberCheck",
+        "value": "号码检查"
+    },
+    {
+        "name": "secondsbeforeeveryNumberCheck",
+        "value": "每次号码检查前几秒"
+    },
+    {
+        "name": "StartChecking",
+        "value": "开始检查"
+    },
+    {
+        "name": "ContactListGrabber",
+        "value": "联系人列表抓取器"
+    }
+    ,
+    {
+        "name": "HitGrabNowButton",
+        "value": "2）点击立即抓取按钮"
+    },
+    {
+        "name": "GrabActiveGroupMembers",
+        "value": "抓住活跃的小组成员"
+    }
+    ,
+    {
+        "name": "TotalFound ",
+        "value": "总找到 "
+    },
+    {
+        "name": "Export",
+        "value": "出口"
+    },
+    {
+        "name": "Nothingtoexport",
+        "value": "没有什么可导出的"
+    }
+	
+	
+	,
+    {
+        "name": "GoogleMapDataEExtractor",
+        "value": "谷歌地图数据提取器"
+    }
+	,
+    {
+        "name": "Usethatwindowtosearchforbusinessesandwhensearchresultsareshown",
+        "value": "使用该窗口搜索企业以及显示搜索结果的时间 \n 单击“开始抓取”按钮以启动爬虫."
+    },
+    {
+        "name": "PleaseSearchsomething",
+        "value": "请搜索一些东西"
+    },
+    {
+        "name": "ImportInWaSender",
+        "value": "导入号码"
+    },
+    {
+        "name": "EnterCountryCode",
+        "value": "输入国家代码"
+    },
+    {
+        "name": "SearchYourQUeryonGMap",
+        "value": "在 G Map 上搜索您的查询"
+    },
+    {
+        "name": "HitStart",
+        "value": "点击开始"
+    },
+    {
+        "name": "Count",
+        "value": "数数"
+    },
+    {
+        "name": "ReviewCount",
+        "value": "谷歌地图数据提取器"
+    },
+    {
+        "name": "Catagory",
+        "value": "类别"
+    },
+    {
+        "name": "MobileNumber",
+        "value": "手机号码"
+    }
+	,
+    {
+        "name": "Address",
+        "value": "地址"
+    },
+    {
+        "name": "Website",
+        "value": "网站"
+    },
+    {
+        "name": "PlusCode",
+        "value": "PlusCode"
+    }
+	,
+    {
+        "name": "AddCountryCode",
+        "value": "添加国家代码"
+    },
+    {
+        "name": "One",
+        "value": "1) "
+    },
+	{
+        "name": "Two",
+        "value": "2) "
+    },
+	{
+        "name": "Three",
+        "value": "3) "
+    }
+]

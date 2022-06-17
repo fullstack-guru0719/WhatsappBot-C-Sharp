@@ -1,0 +1,822 @@
+[
+    {
+        "name": "AppName",
+        "value": "Ва Отправитель 1.0"
+    },
+    {
+        "name": "Column1",
+        "value": "Столбец1"
+    },
+    {
+        "name": "Number",
+        "value": "Количество"
+    },
+    {
+        "name": "Column2",
+        "value": "Столбец2"
+    },
+    {
+        "name": "DownloadSample",
+        "value": "Скачать образец Excel"
+    },
+    {
+        "name": "UploadSampleExcel",
+        "value": "Загрузить Excel"
+    },
+    {
+        "name": "ContectSender",
+        "value": "Связаться с отправителем"
+    },
+    {
+        "name": "GroupSender",
+        "value": "Отправитель группы"
+    },
+    {
+        "name": "Tools",
+        "value": "Инструменты"
+    },
+    {
+        "name": "Filedownloadedsuccessfully",
+        "value": "Файл успешно скачан!"
+    },
+    {
+        "name": "WABulkSender",
+        "value": "WA Массовая отправка"
+    },
+    {
+        "name": "SelectExcel",
+        "value": "Выберите Эксель"
+    },
+    {
+        "name": "PleaseselectExcelfilesformatonly",
+        "value": "Выберите только формат файлов Excel ( .xls )"
+    },
+    {
+        "name": "AddNew",
+        "value": "Добавить новое"
+    },
+    {
+        "name": "KeyMarkers",
+        "value": "Ключевые маркеры"
+    },
+    {
+        "name": "AddKeyMarker",
+        "value": "Добавить ключевой маркер"
+    },
+    {
+        "name": "SaveNClose",
+        "value": "Сохранять"
+    },
+    {
+        "name": "KeyMarkerFormatinIncorrect",
+        "value": "Неправильный формат ключевого маркера"
+    },
+    {
+        "name": "OK",
+        "value": "Ok"
+    },
+    {
+        "name": "SelectedKeyMarkeralreadyExist",
+        "value": "Выбранный ключевой маркер уже существует"
+    },
+    {
+        "name": "Delete",
+        "value": "Удалить"
+    },
+    {
+        "name": "WrongKey",
+        "value": "Маркер ключа начинается с {{ KEY :"
+    },
+    {
+        "name": "Target",
+        "value": "Цель"
+    },
+    {
+        "name": "Messages",
+        "value": "Сообщения"
+    },
+    {
+        "name": "MessageOne",
+        "value": "Сообщение 1"
+    },
+    {
+        "name": "MessageTwo",
+        "value": "Сообщение 2"
+    },
+    {
+        "name": "MessageThree",
+        "value": "Сообщение 3"
+    },
+    {
+        "name": "MessageFour",
+        "value": "Сообщение 4"
+    },
+    {
+        "name": "MessageFive",
+        "value": "Сообщение 5"
+    },
+    {
+        "name": "Attachments",
+        "value": "Вложения"
+    },
+    {
+        "name": "Addfile",
+        "value": "Добавить файл"
+    },
+    {
+        "name": "Yourfirstmessage",
+        "value": "* Ваше первое сообщение"
+    },
+    {
+        "name": "YourSecondmessage",
+        "value": "* Ваше второе сообщение"
+    },
+    {
+        "name": "YourThirdmessage",
+        "value": "* Ваше третье сообщение"
+    },
+    {
+        "name": "YourFourthmessage",
+        "value": "* Ваше Четвертое сообщение"
+    },
+    {
+        "name": "YourFifthmessage",
+        "value": "* Ваше пятое сообщение"
+    },
+    {
+        "name": "DelaySettings",
+        "value": "Настройки задержки"
+    },
+    {
+        "name": "Wait",
+        "value": "Ждать"
+    },
+    {
+        "name": "secondsafterevery",
+        "value": "секунд после каждого"
+    },
+    {
+        "name": "to",
+        "value": "к"
+    },
+    {
+        "name": "Clear",
+        "value": "Прозрачный"
+    },
+    {
+        "name": "StartCampaign",
+        "value": "Начать кампанию"
+    },
+    {
+        "name": "secondsbeforeeverymessage",
+        "value": "секунды перед каждым сообщением"
+    },
+    {
+        "name": "AddKeyMarkers",
+        "value": "Добавить ключевые маркеры"
+    },
+    {
+        "name": "RandomNumber",
+        "value": "Случайное число"
+    },
+    {
+        "name": "PleaseEnterCampaignName",
+        "value": "Пожалуйста, введите название кампании"
+    },
+    {
+        "name": "CampaignName",
+        "value": "Название кампании"
+    },
+    {
+        "name": "UntitledGroupCampaign",
+        "value": "Групповая кампания без названия"
+    },
+    {
+        "name": "UntitledCampaign",
+        "value": "Кампания без названия"
+    },
+    {
+        "name": "RowNo",
+        "value": "Строка №"
+    },
+    {
+        "name": "Errors",
+        "value": "Ошибки"
+    },
+    {
+        "name": "WhatsAppBot",
+        "value": "WhatsApp-бот"
+    },
+    {
+        "name": "Rules",
+        "value": "Правила"
+    },
+    {
+        "name": "AddRule",
+        "value": "Добавить правило"
+    },
+    {
+        "name": "Log",
+        "value": "Журнал"
+    },
+    {
+        "name": "Status",
+        "value": "Положение дел"
+    },
+    {
+        "name": "Start",
+        "value": "Начинать"
+    },
+    {
+        "name": "Stop",
+        "value": "Останавливаться"
+    },
+    {
+        "name": "IsActive",
+        "value": "Активен"
+    },
+    {
+        "name": "UserInput",
+        "value": "Пользовательский ввод"
+    },
+    {
+        "name": "Type",
+        "value": "Тип"
+    },
+    {
+        "name": "Match",
+        "value": "Соответствовать"
+    },
+    {
+        "name": "ReplySend",
+        "value": "Ответить Отправить"
+    },
+    {
+        "name": "NotMatch",
+        "value": "Не соответствует"
+    },
+    {
+        "name": "Fallback",
+        "value": "Отступать"
+    },
+    {
+        "name": "PleaseaddRules",
+        "value": "Пожалуйста, добавьте правила"
+    },
+    {
+        "name": "Run",
+        "value": "Бегать"
+    },
+    {
+        "name": "InitiateWhatsAppScaneQRCodefromyourrmobile",
+        "value": "Инициировать WhatsApp"
+    },
+    {
+        "name": "ClicktoInitiate",
+        "value": "Нажмите, чтобы начать"
+    },
+    {
+        "name": "ChatName",
+        "value": "Имя в чате"
+    },
+    {
+        "name": "ImportentNotes",
+        "value": "Важные примечания"
+    },
+    {
+        "name": "Keepapplicationopenwhilesendingmessagesanduntilallmessagesaresentfromyourmobile",
+        "value": "1) Держите приложение открытым во время отправки сообщений и до тех пор, пока все сообщения не будут отправлены с вашего мобильного телефона."
+    },
+    {
+        "name": "ClearWhatsAppchathistoryafter5001000150020000messagesasperyourphoneconfiguration",
+        "value": "2) Очистить историю чата WhatsApp после 500/1000/1500/20000 сообщений в соответствии с конфигурацией вашего телефона."
+    },
+    {
+        "name": "WaSendertendstosubmitmessagestoyourphoneisnotresponsiblefordeliveryofthemessage",
+        "value": "3) WaSender имеет тенденцию отправлять сообщения на ваш телефон, не несет ответственности за доставку сообщения"
+    },
+    {
+        "name": "Completed",
+        "value": "Завершенный"
+    },
+    {
+        "name": "PleasefollowStepNo1FirstInitialiseWhatsapp",
+        "value": "Пожалуйста, выполните шаг № 1. Сначала инициализируйте WhatsApp."
+    },
+    {
+        "name": "Processisalreadyrunning",
+        "value": "Процесс уже запущен"
+    },
+    {
+        "name": "RunGroup",
+        "value": "Выполнить группу"
+    },
+    {
+        "name": "KeyMarker",
+        "value": "KeyMarker"
+    },
+    {
+        "name": "Select",
+        "value": "Выбирать"
+    },
+    {
+        "name": "GroupsJoiner",
+        "value": "ГруппыСтоляр"
+    },
+    {
+        "name": "GroupJoin",
+        "value": "Присоединиться к группе"
+    },
+    {
+        "name": "secondsbeforeeveryGroupJoin",
+        "value": "секунд перед каждым присоединением к группе"
+    },
+    {
+        "name": "StartJoining",
+        "value": "Присоединиться"
+    },
+    {
+        "name": "GroupLink",
+        "value": "Групповая ссылка"
+    },
+    {
+        "name": "PleaseFollowStepnoThree",
+        "value": "Пожалуйста, выполните шаг № 3"
+    },
+    {
+        "name": "GrabGroupLinks",
+        "value": "Захват групповых ссылок"
+    },
+    {
+        "name": "OpenBrowser",
+        "value": "Открыть браузер"
+    },
+    {
+        "name": "Clickbellowbuttontoopenbrowser",
+        "value": "Нажмите кнопку ниже, чтобы открыть браузер"
+    },
+    {
+        "name": "Navigatetoanywebsitewherelistedgrouplinkstheclickbellowbellowbuton",
+        "value": "Перейдите на любой веб-сайт, где перечислены групповые ссылки, нажмите кнопку ниже."
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "Начать захват"
+    },
+    {
+        "name": "NoGroupLinkfoundincurrentPage",
+        "value": "На текущей странице не найдена ссылка на группу"
+    },
+    {
+        "name": "GrabChatList",
+        "value": "Получить список чатов"
+    },
+    {
+        "name": "InitiateWhatsAppScaneQRCodefromyourmobile",
+        "value": "Инициировать WhatsApp"
+    },
+    {
+        "name": "GetGroupMember",
+        "value": "Получить члена группы"
+    },
+    {
+        "name": "OpenanyGroupchatClickbuttonbellow",
+        "value": "Откройте любой групповой чат"
+    },
+    {
+        "name": "PleaseGotoanygroupchat",
+        "value": "Пожалуйста, зайдите в любой групповой чат"
+    },
+    {
+        "name": "fallback",
+        "value": "отступать"
+    },
+    {
+        "name": "Usefallback",
+        "value": "Использовать запасной вариант"
+    },
+    {
+        "name": "If",
+        "value": "Если..."
+    },
+    {
+        "name": "UserSend",
+        "value": "Пользователь отправил..."
+    },
+    {
+        "name": "Condition",
+        "value": "Условие"
+    },
+    {
+        "name": "Which",
+        "value": "Который"
+    },
+    {
+        "name": "ThenReplywith",
+        "value": "Затем ответьте с помощью..."
+    },
+    {
+        "name": "AddMessage",
+        "value": "Добавить сообщение"
+    },
+    {
+        "name": "Message",
+        "value": "Сообщение"
+    },
+    {
+        "name": "Cancel",
+        "value": "Отмена"
+    },
+    {
+        "name": "Save",
+        "value": "Сохранять"
+    },
+    {
+        "name": "Confirm",
+        "value": "Подтверждать"
+    },
+    {
+        "name": "AreyousuretodeletethisRule",
+        "value": "Вы уверены, что хотите удалить это правило?"
+    },
+    {
+        "name": "ReplyMessage",
+        "value": "Ответить на сообщение"
+    },
+    {
+        "name": "TypeYourMessagehere",
+        "value": "Пишите ваше сообщение здесь"
+    },
+    {
+        "name": "Files",
+        "value": "Файлы"
+    },
+    {
+        "name": "Add",
+        "value": "Добавлять"
+    },
+    {
+        "name": "GroupNames",
+        "value": "Имена групп"
+    },
+    {
+        "name": "PleaseCheckMobileNumberyouhaveadded",
+        "value": "Пожалуйста, проверьте номер мобильного телефона, который вы добавили"
+    },
+    {
+        "name": "ShouldNotbeempty",
+        "value": "Не должно быть пустым"
+    },
+    {
+        "name": "ContactNumberShouldNotbeEmpty",
+        "value": "Контактный номер не должен быть пустым"
+    },
+    {
+        "name": "MessageShouldNotbeEmpty",
+        "value": "Сообщение не должно быть пустым"
+    },
+    {
+        "name": "delayAfterMessagesShouldNotbeEmpty",
+        "value": "Задержка после сообщений не должна быть пустой"
+    },
+    {
+        "name": "delayAfterMessagesFromShouldNotbeEmpty",
+        "value": "Задержка после сообщений от не должна быть пустой"
+    },
+    {
+        "name": "delayAfterMessagesTOShouldNotbeEmpty",
+        "value": "Задержка после сообщений не должна быть пустой"
+    },
+    {
+        "name": "delayAfterEveryMessageFromShouldNotbeEmpty",
+        "value": "Задержка после каждого сообщения от не должно быть пустым"
+    },
+    {
+        "name": "delayAfterEveryMessageToShouldNotbeEmpty",
+        "value": "Задержка после каждого сообщения не должно быть пустым"
+    },
+    {
+        "name": "ShouldGraterthenoero",
+        "value": "Если Терка тогда 0"
+    },
+    {
+        "name": "delayAfterMessages_ShouldGraterthenoero",
+        "value": "Задержка после сообщений должна быть больше, чем 0"
+    },
+    {
+        "name": "delayAfterMessagesFrom_ShouldGraterthenoero",
+        "value": "Задержка после сообщений от Должна Терка, затем 0"
+    },
+    {
+        "name": "delayAfterMessagesTo_ShouldGraterthenoero",
+        "value": "Задержка после сообщений должна быть теркой, затем 0"
+    },
+    {
+        "name": "delayAfterEveryMessageFrom_ShouldGraterthenoero",
+        "value": "Задержка после каждого сообщения от Should Grater, затем 0"
+    },
+    {
+        "name": "delayAfterEveryMessageTo_ShouldGraterthenoero",
+        "value": "Задержка после каждого сообщения должна быть теркой, а затем 0"
+    },
+    {
+        "name": "thetoamountismustbegraterthenstartingamount",
+        "value": "сумма «до» должна быть больше, чем начальная сумма"
+    },
+    {
+        "name": "UsermessageMustEmptyincaseoffallback",
+        "value": "Сообщение пользователя должно быть пустым в случае отката"
+    },
+    {
+        "name": "PleaseAddatleastoneMessage",
+        "value": "Пожалуйста, добавьте хотя бы одно сообщение"
+    },
+    {
+        "name": "PleaseEnterAmessage",
+        "value": "Пожалуйста, введите сообщение"
+    },
+    {
+        "name": "PleaseaddatleastoneGroupinlist",
+        "value": "Пожалуйста, добавьте хотя бы одну группу в список"
+    },
+    {
+        "name": "PleaseaddatleastoneContactinlist",
+        "value": "Пожалуйста, добавьте хотя бы один контакт в список"
+    },
+    {
+        "name": "ClickbellowButton",
+        "value": "1) Нажмите кнопку ниже"
+    },
+    {
+        "name": "ScanQRCode",
+        "value": "2) Сканировать QR-код"
+    },
+    {
+        "name": "WaitfortheExcel",
+        "value": "3) Дождитесь Excel"
+    },
+    {
+        "name": "Now",
+        "value": "Сейчас"
+    },
+    {
+        "name": "GrabNow",
+        "value": "Возьмите сейчас"
+    },
+    {
+        "name": "GrabGroupMembers",
+        "value": "Захват участников группы"
+    },
+    {
+        "name": "ClickbellowButtonScanQRCode",
+        "value": "1) Нажмите кнопку ниже, отсканируйте QR-код."
+    },
+    {
+        "name": "OpenAnyGroup",
+        "value": "2) Открыть любую группу"
+    },
+    {
+        "name": "GrabWhatsAppGroupLinksfromwebpage",
+        "value": "Захватите ссылки группы WhatsApp с веб-страницы"
+    },
+    {
+        "name": "OpenAnywebpagewheregivengrouplinks",
+        "value": "2) Откройте любую веб-страницу, где даны групповые ссылки"
+    },
+    {
+        "name": "ThenClickonSTARTButton",
+        "value": "3) Затем нажмите кнопку СТАРТ"
+    },
+    {
+        "name": "AutoGroupJoiner",
+        "value": "Автоматический групповой столяр"
+    },
+    {
+        "name": "AddUploadGroupLinks",
+        "value": "1) Добавить/загрузить групповые ссылки"
+    },
+    {
+        "name": "ScanWAQRCode",
+        "value": "2) Отсканируйте QR-код WA"
+    },
+    {
+        "name": "StartNow",
+        "value": "Начать сейчас"
+    },
+    {
+        "name": "WhatsAppAutoResponderBot",
+        "value": "Бот-автоответчик WhatsApp"
+    },
+    {
+        "name": "SetRules",
+        "value": "1) Установить правила"
+    },
+    {
+        "name": "AddReplyMessages",
+        "value": "2) Добавить ответные сообщения"
+    },
+    {
+        "name": "GeneralSettings",
+        "value": "общие настройки"
+    },
+    {
+        "name": "ChromeProfilePath",
+        "value": "Путь к профилю Chrome"
+    },
+    {
+        "name": "InputPathisnotCorrectfolderpath",
+        "value": "Входной путь не является правильным путем к папке"
+    },
+    {
+        "name": "SettingsSavedSuccessfully",
+        "value": "Настройки успешно сохранены"
+    },
+    {
+        "name": "MessageSendingType",
+        "value": "Тип отправки сообщения"
+    },
+    {
+        "name": "CopyPaste",
+        "value": "Копировать вставить"
+    },
+    {
+        "name": "Typeamessage",
+        "value": "Введите сообщение"
+    },
+    {
+        "name": "Activate",
+        "value": "Активировать"
+    },
+    {
+        "name": "ActivateAppName",
+        "value": "Активировать WaSender"
+    },
+    {
+        "name": "YourActivationCodeis",
+        "value": "Ваш код активации..."
+    },
+    {
+        "name": "ProvideYourActivationKeyHere",
+        "value": "Введите ключ активации здесь..."
+    },
+    {
+        "name": "ActivateNow",
+        "value": "Активировать сейчас"
+    },
+    {
+        "name": "Exit",
+        "value": "Выход"
+    },
+    {
+        "name": "ActivationSuccessfull",
+        "value": "Активация прошла успешно"
+    },
+    {
+        "name": "InvalidActivationKey",
+        "value": "Недействительный ключ активации"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "Начинать"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "Начинать"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "Начинать"
+    },
+    {
+        "name": "LanguageIsSet",
+        "value": "Язык установлен.  Пожалуйста, перезапустите программное обеспечение"
+    },
+    {
+        "name": "Name",
+        "value": "имя"
+    },
+    {
+        "name": "WhatsAppNumberFilter",
+        "value": "Фильтр номеров WhatsApp"
+    },
+    {
+        "name": "AddUploadNumbers",
+        "value": "1) Добавить/загрузить номера"
+    },
+    {
+        "name": "NumberCheck",
+        "value": "Проверка номера"
+    },
+    {
+        "name": "secondsbeforeeveryNumberCheck",
+        "value": "секунд перед каждой проверкой номера"
+    },
+    {
+        "name": "StartChecking",
+        "value": "Начать проверку"
+    },
+    {
+        "name": "ContactListGrabber",
+        "value": "Граббер списка контактов"
+    }
+    ,
+    {
+        "name": "HitGrabNowButton",
+        "value": "2) Нажмите кнопку «Захватить сейчас»."
+    },
+    {
+        "name": "GrabActiveGroupMembers",
+        "value": "Захват активных участников группы"
+    }
+    ,
+    {
+        "name": "TotalFound ",
+        "value": "Всего найдено "
+    },
+    {
+        "name": "Export",
+        "value": "Экспорт"
+    },
+    {
+        "name": "Nothingtoexport",
+        "value": "Нечего экспортировать"
+    }
+	
+	
+	,
+    {
+        "name": "GoogleMapDataEExtractor",
+        "value": "Извлечение данных карты Google"
+    }
+	,
+    {
+        "name": "Usethatwindowtosearchforbusinessesandwhensearchresultsareshown",
+        "value": "Используйте это окно для поиска предприятий и при отображении результатов поиска. \n нажмите кнопку «Начать захват», чтобы запустить поисковый робот."
+    },
+    {
+        "name": "PleaseSearchsomething",
+        "value": "Пожалуйста, найдите что-нибудь"
+    },
+    {
+        "name": "ImportInWaSender",
+        "value": "Импорт номеров"
+    },
+    {
+        "name": "EnterCountryCode",
+        "value": "Введите код страны"
+    },
+    {
+        "name": "SearchYourQUeryonGMap",
+        "value": "Найдите свой запрос на карте G"
+    },
+    {
+        "name": "HitStart",
+        "value": "Нажмите Старт"
+    },
+    {
+        "name": "Count",
+        "value": "Считать"
+    },
+    {
+        "name": "ReviewCount",
+        "value": "Количество просмотров"
+    },
+    {
+        "name": "Catagory",
+        "value": "Категория"
+    },
+    {
+        "name": "MobileNumber",
+        "value": "Номер мобильного"
+    }
+	,
+    {
+        "name": "Address",
+        "value": "Адрес"
+    },
+    {
+        "name": "Website",
+        "value": "Веб-сайт"
+    },
+    {
+        "name": "PlusCode",
+        "value": "PlusCode"
+    }
+	,
+    {
+        "name": "AddCountryCode",
+        "value": "Добавить код страны"
+    },
+    {
+        "name": "One",
+        "value": "1) "
+    },
+	{
+        "name": "Two",
+        "value": "2) "
+    },
+	{
+        "name": "Three",
+        "value": "3) "
+    }
+]

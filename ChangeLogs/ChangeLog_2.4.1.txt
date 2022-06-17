@@ -1,0 +1,6 @@
+Change Log - 2.4.1 (17 May 2022)
+----------------------------------
+* Language issue corrections
+* Wa AutoReply Boot issue fixed
+* Bug fixes
+* Performance Improved 

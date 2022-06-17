@@ -1,0 +1,5 @@
+Change Log - 2.4.0 (12 May 2022)
+----------------------------------
+* Added New 'Grab Active Members from WhatsApp group' feature
+* Bug fixes
+* Performance Improved 

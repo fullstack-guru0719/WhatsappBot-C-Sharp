@@ -1,0 +1,823 @@
+[
+    {
+        "name": "AppName",
+        "value": "Wa afzender 1.0"
+    },
+    {
+        "name": "Column1",
+        "value": "Kolom1"
+    },
+    {
+        "name": "Number",
+        "value": "Nummer"
+    },
+    {
+        "name": "Column2",
+        "value": "Kolom2"
+    },
+    {
+        "name": "DownloadSample",
+        "value": "Voorbeeld Excel downloaden"
+    },
+    {
+        "name": "UploadSampleExcel",
+        "value": "Excel uploaden"
+    },
+    {
+        "name": "ContectSender",
+        "value": "Contact afzender"
+    },
+    {
+        "name": "GroupSender",
+        "value": "Groepsafzender"
+    },
+    {
+        "name": "Tools",
+        "value": "Gereedschap"
+    },
+    {
+        "name": "Filedownloadedsuccessfully",
+        "value": "Bestand succesvol gedownload!"
+    },
+    {
+        "name": "WABulkSender",
+        "value": "WA Bulk-afzender"
+    },
+    {
+        "name": "SelectExcel",
+        "value": "Selecteer Excel"
+    },
+    {
+        "name": "PleaseselectExcelfilesformatonly",
+        "value": "Selecteer alleen Excel-bestanden ( .xls ) formaat"
+    },
+    {
+        "name": "AddNew",
+        "value": "Nieuw toevoegen"
+    },
+    {
+        "name": "KeyMarkers",
+        "value": "Toetsmarkeringen"
+    },
+    {
+        "name": "AddKeyMarker",
+        "value": "Sleutelmarkering toevoegen"
+    },
+    {
+        "name": "SaveNClose",
+        "value": "Opslaan"
+    },
+    {
+        "name": "KeyMarkerFormatinIncorrect",
+        "value": "Toetsmarkeringsformaat onjuist"
+    },
+    {
+        "name": "OK",
+        "value": "Oke"
+    },
+    {
+        "name": "SelectedKeyMarkeralreadyExist",
+        "value": "Geselecteerde KeyMarker bestaat al"
+    },
+    {
+        "name": "Delete",
+        "value": "Verwijderen"
+    },
+    {
+        "name": "WrongKey",
+        "value": "Sleutelmarkering begint met {{ KEY :"
+    },
+    {
+        "name": "Target",
+        "value": "Doel"
+    },
+    {
+        "name": "Messages",
+        "value": "Berichten"
+    },
+    {
+        "name": "MessageOne",
+        "value": "Bericht 1"
+    },
+    {
+        "name": "MessageTwo",
+        "value": "Bericht 2"
+    },
+    {
+        "name": "MessageThree",
+        "value": "Bericht 3"
+    },
+    {
+        "name": "MessageFour",
+        "value": "Bericht 4"
+    },
+    {
+        "name": "MessageFive",
+        "value": "Bericht 5"
+    },
+    {
+        "name": "Attachments",
+        "value": "Bijlagen"
+    },
+    {
+        "name": "Addfile",
+        "value": "Bestand toevoegen"
+    },
+    {
+        "name": "Yourfirstmessage",
+        "value": "* Je eerste bericht"
+    },
+    {
+        "name": "YourSecondmessage",
+        "value": "* Uw tweede bericht"
+    },
+    {
+        "name": "YourThirdmessage",
+        "value": "* Uw derde bericht"
+    },
+    {
+        "name": "YourFourthmessage",
+        "value": "* Uw vierde bericht"
+    },
+    {
+        "name": "YourFifthmessage",
+        "value": "* Uw vijfde bericht"
+    },
+    {
+        "name": "DelaySettings",
+        "value": "Vertragingsinstellingen"
+    },
+    {
+        "name": "Wait",
+        "value": "Wacht"
+    },
+    {
+        "name": "secondsafterevery",
+        "value": "seconden na elke"
+    },
+    {
+        "name": "to",
+        "value": "naar"
+    },
+    {
+        "name": "Clear",
+        "value": "Duidelijk"
+    },
+    {
+        "name": "StartCampaign",
+        "value": "Campagne starten"
+    },
+    {
+        "name": "secondsbeforeeverymessage",
+        "value": "seconden voor elk bericht"
+    },
+    {
+        "name": "AddKeyMarkers",
+        "value": "Sleutelmarkeringen toevoegen"
+    },
+    {
+        "name": "RandomNumber",
+        "value": "Willekeurig nummer"
+    },
+    {
+        "name": "PleaseEnterCampaignName",
+        "value": "Voer campagnenaam in"
+    },
+    {
+        "name": "CampaignName",
+        "value": "Campagne naam"
+    },
+    {
+        "name": "UntitledGroupCampaign",
+        "value": "Naamloze groepscampagne"
+    },
+    {
+        "name": "UntitledCampaign",
+        "value": "Naamloze campagne"
+    },
+    {
+        "name": "RowNo",
+        "value": "Rij nr"
+    },
+    {
+        "name": "Errors",
+        "value": "fouten"
+    },
+    {
+        "name": "WhatsAppBot",
+        "value": "WhatsApp-bot"
+    },
+    {
+        "name": "Rules",
+        "value": "Reglement"
+    },
+    {
+        "name": "AddRule",
+        "value": "Regel toevoegen"
+    },
+    {
+        "name": "Log",
+        "value": "Logboek"
+    },
+    {
+        "name": "Status",
+        "value": "Toestand"
+    },
+    {
+        "name": "Start",
+        "value": "Begin"
+    },
+    {
+        "name": "Stop",
+        "value": "Hou op"
+    },
+    {
+        "name": "IsActive",
+        "value": "Is actief"
+    },
+    {
+        "name": "UserInput",
+        "value": "Gebruikers invoer"
+    },
+    {
+        "name": "Type",
+        "value": "Type"
+    },
+    {
+        "name": "Match",
+        "value": "Overeenkomst"
+    },
+    {
+        "name": "ReplySend",
+        "value": "Beantwoorden Verzenden"
+    },
+    {
+        "name": "NotMatch",
+        "value": "Komt niet overeen"
+    },
+    {
+        "name": "Fallback",
+        "value": "Terugvallen"
+    },
+    {
+        "name": "PleaseaddRules",
+        "value": "Voeg regels toe"
+    },
+    {
+        "name": "Run",
+        "value": "Rennen"
+    },
+    {
+        "name": "InitiateWhatsAppScaneQRCodefromyourrmobile",
+        "value": "WhatsApp starten"
+    },
+    {
+        "name": "ClicktoInitiate",
+        "value": "Klik om te starten"
+    },
+    {
+        "name": "ChatName",
+        "value": "Chat naam"
+    },
+    {
+        "name": "ImportentNotes",
+        "value": "Belangrijke opmerkingen"
+    },
+    {
+        "name": "Keepapplicationopenwhilesendingmessagesanduntilallmessagesaresentfromyourmobile",
+        "value": "1) Houd de applicatie open tijdens het verzenden van berichten en totdat alle berichten vanaf uw mobiel zijn verzonden"
+    },
+    {
+        "name": "ClearWhatsAppchathistoryafter5001000150020000messagesasperyourphoneconfiguration",
+        "value": "2) Wis WhatsApp-chatgeschiedenis na 500/1000/1500/20000 berichten volgens uw telefoonconfiguratie"
+    },
+    {
+        "name": "WaSendertendstosubmitmessagestoyourphoneisnotresponsiblefordeliveryofthemessage",
+        "value": "3) WaSender heeft de neiging om berichten naar uw telefoon te verzenden, is niet verantwoordelijk voor de bezorging van het bericht"
+    },
+    {
+        "name": "Completed",
+        "value": "Voltooid"
+    },
+    {
+        "name": "PleasefollowStepNo1FirstInitialiseWhatsapp",
+        "value": "Volg a.u.b. stap nr. 1. Eerst Whatsapp initialiseren"
+    },
+    {
+        "name": "Processisalreadyrunning",
+        "value": "Proces loopt al"
+    },
+    {
+        "name": "RunGroup",
+        "value": "Groep uitvoeren"
+    },
+    {
+        "name": "KeyMarker",
+        "value": "Sleutelmarkering"
+    },
+    {
+        "name": "Select",
+        "value": "Selecteer"
+    },
+    {
+        "name": "GroupsJoiner",
+        "value": "GroepenSchrijnwerker"
+    },
+    {
+        "name": "GroupJoin",
+        "value": "Groepslidmaatschap"
+    },
+    {
+        "name": "secondsbeforeeveryGroupJoin",
+        "value": "seconden voor elke groepslidmaatschap"
+    },
+    {
+        "name": "StartJoining",
+        "value": "Begin met lid worden"
+    },
+    {
+        "name": "GroupLink",
+        "value": "Groepslink"
+    },
+    {
+        "name": "PleaseFollowStepnoThree",
+        "value": "Volg stap nr. 3"
+    },
+    {
+        "name": "GrabGroupLinks",
+        "value": "Groepslinks pakken"
+    },
+    {
+        "name": "OpenBrowser",
+        "value": "Open browser"
+    },
+    {
+        "name": "Clickbellowbuttontoopenbrowser",
+        "value": "Klik op de onderstaande knop om de browser te openen"
+    },
+    {
+        "name": "Navigatetoanywebsitewherelistedgrouplinkstheclickbellowbellowbuton",
+        "value": "Navigeer naar een website waar groepslinks worden vermeld, klik op de balgknop"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "Begin met grijpen"
+    },
+    {
+        "name": "NoGroupLinkfoundincurrentPage",
+        "value": "Geen groepslink gevonden in huidige pagina"
+    },
+    {
+        "name": "GrabChatList",
+        "value": "Pak chatlijst"
+    },
+    {
+        "name": "InitiateWhatsAppScaneQRCodefromyourmobile",
+        "value": "WhatsApp starten"
+    },
+    {
+        "name": "GetGroupMember",
+        "value": "Groepslid krijgen"
+    },
+    {
+        "name": "OpenanyGroupchatClickbuttonbellow",
+        "value": "Open een groepschat"
+    },
+    {
+        "name": "PleaseGotoanygroupchat",
+        "value": "Ga alsjeblieft naar een groepschat"
+    },
+    {
+        "name": "fallback",
+        "value": "terugvallen"
+    },
+    {
+        "name": "Usefallback",
+        "value": "Gebruik terugval"
+    },
+    {
+        "name": "If",
+        "value": "Als..."
+    },
+    {
+        "name": "UserSend",
+        "value": "Gebruiker verzenden..."
+    },
+    {
+        "name": "Condition",
+        "value": "Voorwaarde"
+    },
+    {
+        "name": "Which",
+        "value": "Die"
+    },
+    {
+        "name": "ThenReplywith",
+        "value": "Reageer dan met..."
+    },
+    {
+        "name": "AddMessage",
+        "value": "Bericht toevoegen"
+    },
+    {
+        "name": "Message",
+        "value": "Bericht"
+    },
+    {
+        "name": "Cancel",
+        "value": "Annuleren"
+    },
+    {
+        "name": "Save",
+        "value": "Opslaan"
+    },
+    {
+        "name": "Confirm",
+        "value": "Bevestigen"
+    },
+    {
+        "name": "AreyousuretodeletethisRule",
+        "value": "Weet u zeker dat u deze regel wilt verwijderen?"
+    },
+    {
+        "name": "ReplyMessage",
+        "value": "Antwoord"
+    },
+    {
+        "name": "TypeYourMessagehere",
+        "value": "Schrijf je bericht hier"
+    },
+    {
+        "name": "Files",
+        "value": "Bestanden"
+    },
+    {
+        "name": "Add",
+        "value": "Toevoegen"
+    },
+    {
+        "name": "GroupNames",
+        "value": "Groepsnamen"
+    },
+    {
+        "name": "PleaseCheckMobileNumberyouhaveadded",
+        "value": "Controleer het mobiele nummer dat u heeft toegevoegd"
+    },
+    {
+        "name": "ShouldNotbeempty",
+        "value": "Mag niet leeg zijn"
+    },
+    {
+        "name": "ContactNumberShouldNotbeEmpty",
+        "value": "Contactnummer mag niet leeg zijn"
+    },
+    {
+        "name": "MessageShouldNotbeEmpty",
+        "value": "Bericht mag niet leeg zijn"
+    },
+    {
+        "name": "delayAfterMessagesShouldNotbeEmpty",
+        "value": "Vertraging na berichten mag niet leeg zijn"
+    },
+    {
+        "name": "delayAfterMessagesFromShouldNotbeEmpty",
+        "value": "Vertraging na berichten van Mag niet leeg zijn"
+    },
+    {
+        "name": "delayAfterMessagesTOShouldNotbeEmpty",
+        "value": "Vertraging na berichten aan Mag niet leeg zijn"
+    },
+    {
+        "name": "delayAfterEveryMessageFromShouldNotbeEmpty",
+        "value": "Vertraging na elk bericht van Mag niet leeg zijn"
+    },
+    {
+        "name": "delayAfterEveryMessageToShouldNotbeEmpty",
+        "value": "Vertraging na elk bericht aan Mag niet leeg zijn"
+    },
+    {
+        "name": "ShouldGraterthenoero",
+        "value": "Moet Rasp dan 0"
+    },
+    {
+        "name": "delayAfterMessages_ShouldGraterthenoero",
+        "value": "Vertraging nadat berichten moeten raspen dan 0"
+    },
+    {
+        "name": "delayAfterMessagesFrom_ShouldGraterthenoero",
+        "value": "Vertraging na berichten van moeten raspen dan 0"
+    },
+    {
+        "name": "delayAfterMessagesTo_ShouldGraterthenoero",
+        "value": "Vertraging na berichten om te raspen dan 0"
+    },
+    {
+        "name": "delayAfterEveryMessageFrom_ShouldGraterthenoero",
+        "value": "Vertraging na elk bericht van zou moeten raspen dan 0"
+    },
+    {
+        "name": "delayAfterEveryMessageTo_ShouldGraterthenoero",
+        "value": "Vertraging na elk bericht om te raspen dan 0"
+    },
+    {
+        "name": "thetoamountismustbegraterthenstartingamount",
+        "value": "het 'to'-bedrag moet rasp zijn dan het startbedrag"
+    },
+    {
+        "name": "UsermessageMustEmptyincaseoffallback",
+        "value": "Gebruikersbericht moet leeg zijn in geval van terugval"
+    },
+    {
+        "name": "PleaseAddatleastoneMessage",
+        "value": "Voeg ten minste één bericht toe"
+    },
+    {
+        "name": "PleaseEnterAmessage",
+        "value": "Voer een bericht in"
+    },
+    {
+        "name": "PleaseaddatleastoneGroupinlist",
+        "value": "Voeg ten minste één groep toe aan de lijst"
+    },
+    {
+        "name": "PleaseaddatleastoneContactinlist",
+        "value": "Voeg ten minste één contactpersoon toe aan de lijst"
+    },
+    {
+        "name": "ClickbellowButton",
+        "value": "1) Klik op de knop hieronder:"
+    },
+    {
+        "name": "ScanQRCode",
+        "value": "2) QR-code scannen"
+    },
+    {
+        "name": "WaitfortheExcel",
+        "value": "3) Wacht op de Excel"
+    },
+    {
+        "name": "Now",
+        "value": "nutsvoorzieningen"
+    },
+    {
+        "name": "GrabNow",
+        "value": "Nu grijpen"
+    },
+    {
+        "name": "GrabGroupMembers",
+        "value": "Grijp groepsleden"
+    },
+    {
+        "name": "ClickbellowButtonScanQRCode",
+        "value": "1) Klik op de onderstaande knop Scan QR-code:"
+    },
+    {
+        "name": "OpenAnyGroup",
+        "value": "2) Open een willekeurige groep"
+    },
+    {
+        "name": "GrabWhatsAppGroupLinksfromwebpage",
+        "value": "Grijp WhatsApp Group Links van webpagina"
+    },
+    {
+        "name": "OpenAnywebpagewheregivengrouplinks",
+        "value": "2) Open elke webpagina waar groepslinks zijn gegeven"
+    },
+    {
+        "name": "ThenClickonSTARTButton",
+        "value": "3) Klik vervolgens op de START-knop"
+    },
+    {
+        "name": "AutoGroupJoiner",
+        "value": "Autogroep schrijnwerker"
+    },
+    {
+        "name": "AddUploadGroupLinks",
+        "value": "1) Groepslinks toevoegen/uploaden"
+    },
+    {
+        "name": "ScanWAQRCode",
+        "value": "2) Scan WA QR-code"
+    },
+    {
+        "name": "StartNow",
+        "value": "Begin nu"
+    },
+    {
+        "name": "WhatsAppAutoResponderBot",
+        "value": "WhatsApp Autoresponder Bot"
+    },
+    {
+        "name": "SetRules",
+        "value": "1) Regels instellen"
+    },
+    {
+        "name": "AddReplyMessages",
+        "value": "2) Antwoordberichten toevoegen"
+    },
+    {
+        "name": "GeneralSettings",
+        "value": "Algemene instellingen"
+    },
+    {
+        "name": "ChromeProfilePath",
+        "value": "Chrome-profielpad"
+    },
+    {
+        "name": "InputPathisnotCorrectfolderpath",
+        "value": "Invoerpad is niet correct mappad"
+    },
+    {
+        "name": "SettingsSavedSuccessfully",
+        "value": "Instellingen succesvol opgeslagen"
+    },
+    {
+        "name": "MessageSendingType",
+        "value": "Type bericht verzenden"
+    },
+    {
+        "name": "CopyPaste",
+        "value": "Kopiëren plakken"
+    },
+    {
+        "name": "Typeamessage",
+        "value": "Type een bericht"
+    },
+    {
+        "name": "Activate",
+        "value": "Activeren"
+    },
+    {
+        "name": "ActivateAppName",
+        "value": "Activeer WaSender"
+    },
+    {
+        "name": "YourActivationCodeis",
+        "value": "Uw activeringscode is..."
+    },
+    {
+        "name": "ProvideYourActivationKeyHere",
+        "value": "Geef hier uw activeringssleutel op ..."
+    },
+    {
+        "name": "ActivateNow",
+        "value": "Activeer nu"
+    },
+    {
+        "name": "Exit",
+        "value": "Uitgang"
+    },
+    {
+        "name": "ActivationSuccessfull",
+        "value": "Activering succesvol"
+    },
+    {
+        "name": "InvalidActivationKey",
+        "value": "Ongeldige activeringssleutel"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "Begin"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "Begin"
+    },
+    {
+        "name": "StartGrabbing",
+        "value": "Begin"
+    },
+    {
+        "name": "LanguageIsSet",
+        "value": "Taal is ingesteld.  Start de software opnieuw op"
+    },
+    {
+        "name": "Name",
+        "value": "naam"
+    },
+    {
+        "name": "WhatsAppNumberFilter",
+        "value": "WhatsApp-nummerfilter"
+    },
+    {
+        "name": "AddUploadNumbers",
+        "value": "1) Nummers toevoegen / uploaden"
+    },
+    {
+        "name": "NumberCheck",
+        "value": "Nummercontrole"
+    },
+    {
+        "name": "secondsbeforeeveryNumberCheck",
+        "value": "seconden voor elke nummercontrole"
+    },
+    {
+        "name": "StartChecking",
+        "value": "Begin met controleren"
+    },
+    {
+        "name": "ContactListGrabber",
+        "value": "Contactlijst Grabber"
+    }
+    ,
+    {
+        "name": "HitGrabNowButton",
+        "value": "2) Druk op de knop Nu grijpen"
+    }
+	,
+    {
+        "name": "GrabActiveGroupMembers",
+        "value": "Grijp actieve groepsleden"
+    }
+    ,
+    {
+        "name": "TotalFound ",
+        "value": "Totaal gevonden"
+    },
+    {
+        "name": "Export",
+        "value": "Exporteren"
+    },
+    {
+        "name": "Nothingtoexport",
+        "value": "Niets om te exporteren"
+    }
+	
+	
+	,
+    {
+        "name": "GoogleMapDataEExtractor",
+        "value": "Google Map-gegevensextractor"
+    }
+	,
+    {
+        "name": "Usethatwindowtosearchforbusinessesandwhensearchresultsareshown",
+        "value": "Gebruik dat venster om naar bedrijven te zoeken en wanneer zoekresultaten worden weergegeven \n klik op de Start Grabing-knop om de crawler te starten."
+    },
+    {
+        "name": "PleaseSearchsomething",
+        "value": "Zoek iets a.u.b"
+    },
+    {
+        "name": "ImportInWaSender",
+        "value": "Nummers importeren"
+    },
+    {
+        "name": "EnterCountryCode",
+        "value": "Voer landcode in"
+    },
+    {
+        "name": "SearchYourQUeryonGMap",
+        "value": "Zoek uw vraag op G Map"
+    },
+    {
+        "name": "HitStart",
+        "value": "Druk op Start"
+    },
+    {
+        "name": "Count",
+        "value": "Graaf"
+    },
+    {
+        "name": "ReviewCount",
+        "value": "Aantal beoordelingen"
+    },
+    {
+        "name": "Catagory",
+        "value": "categorie"
+    },
+    {
+        "name": "MobileNumber",
+        "value": "Mobiel nummer"
+    }
+	,
+    {
+        "name": "Address",
+        "value": "Adres"
+    },
+    {
+        "name": "Website",
+        "value": "website"
+    },
+    {
+        "name": "PlusCode",
+        "value": "PlusCode"
+    }
+	,
+    {
+        "name": "AddCountryCode",
+        "value": "Landcode toevoegen"
+    },
+    {
+        "name": "One",
+        "value": "1) "
+    },
+	{
+        "name": "Two",
+        "value": "2) "
+    },
+	{
+        "name": "Three",
+        "value": "3) "
+    }
+]
